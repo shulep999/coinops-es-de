@@ -1,10 +1,10 @@
 <theme>
    <variables>
-      <systemDescription>The Atari 7800 Pro System, commonly known as the Atari 7800, is a third generation (1983-2003) video game console developed and distributed by Atari Corporation. It was released in May 1986 in North America at a retail price of $79.95. The console was later released in Europe (1987). The 7800 is considered one of the first backward-compatible consoles as it could play Atari 2600 games without the use of additional modules. The console was discontinued on January 1, 1992.</systemDescription>
+       <systemDescription>Atari 7800 — игровая приставка, выпущенная компанией Atari в июне 1986 года (пробный выпуск состоялся двумя годами раньше). Модель 7800 была разработана для замены неудачной Atari 5200 и с целью возвратить Atari превосходство на рынке игровых консолей, который она делила с Nintendo и Sega. В этой системе Atari устранила все недостатки Atari 5200: вместо аналоговых джойстиков она имела простые цифровые джойстики, была почти полностью совместима с Atari 2600 и она даже была дешевле — начальная цена составила 140 долларов. 7800 стала первой игровой системой Atari, разработанной внешней компанией (General Computer Corporation; после этого вне компании были разработаны Atari Lynx и Atari Jaguar). Система была спроектирована так чтобы её можно было дополнить до полноценного домашнего компьютера — была разработана клавиатура, которая к тому же имела порт расширения (это был SIO-порт от 8-разрядного семейства Atari) для подключения периферии — такой как привод гибких дисков или принтер. В 2009 году IGN составил список лучших игровых консолей, поставив 7800 на 17-е место.</systemDescription>
       <systemManufacturer>Atari</systemManufacturer>
       <systemReleaseYear>1986</systemReleaseYear>
-      <systemReleaseDate>1986-05-01</systemReleaseDate>
-      <systemReleaseDateFormated>May 1, 1986</systemReleaseDateFormated>
+      <systemReleaseDate>01.05.1986</systemReleaseDate>
+      <systemReleaseDateFormated>1 мая 1986г.</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>2D7AC6</systemColor>
       <systemColorPalette1>BABBBD</systemColorPalette1>
