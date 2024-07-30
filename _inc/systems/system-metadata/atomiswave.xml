@@ -1,10 +1,10 @@
 <theme>
    <variables>
-      <systemDescription>The Atomiswave is a custom arcade system board and cabinet from Sammy Corporation. It is based on Sega's NAOMI system board (thus it's common to see the "Sega" logo on its boot up screen). The Atomiswave uses interchangeable game cartridges and the cabinet's control panel can be easily switched out with different control sets, including dual joysticks, dual lightguns and a steering wheel. With the retirement of the aging Neo Geo MVS system, SNK Playmore chose the Atomiswave as its next system to develop games for. In a contract with Sammy, SNK Playmore agreed to develop five games for the Atomiswave system. Metal Slug 6 was SNK Playmore's fifth game for the Atomiswave, after which SNK moved on to a Taito Type X2 arcade board.</systemDescription>
+      <systemDescription>Atomiswave — это изготовленная на заказ аркадная системная плата и корпус от Sammy Corporation . Она основана на консоли Dreamcast от Sega , разделяя сходство с NAOMI , поскольку использует сменные игровые картриджи , а также съемный модуль для изменения схемы управления (включая два джойстика , два световых пистолета и рулевое колесо ), но в отличие от NAOMI, Atomiswave не отличается расширенной оперативной памятью по сравнению с Dreamcast. С уходом со сцены устаревшей системы Neo Geo MVS, SNK Playmore выбрала Atomiswave в качестве своей следующей системы для разработки игр. По контракту с Sammy , SNK Playmore согласилась разработать пять игр для системы Atomiswave. Metal Slug 6 была пятой игрой SNK Playmore для Atomiswave, после чего SNK перешла на аркадную плату Taito Type X 2. Sega прекратила техническую поддержку системы и ее игр 31 марта 2017 года. После ее прекращения библиотека Atomiswave получила домашние преобразования для Dreamcast.</systemDescription>
       <systemManufacturer>Sammy</systemManufacturer>
       <systemReleaseYear>2003</systemReleaseYear>
-      <systemReleaseDate>2003-01-01</systemReleaseDate>
-      <systemReleaseDateFormated>January 1, 2003</systemReleaseDateFormated>
+      <systemReleaseDate>01.01.2003г.</systemReleaseDate>
+      <systemReleaseDateFormated>01 января 2003г.</systemReleaseDateFormated>
       <systemHardwareType>Arcade</systemHardwareType>
       <systemColor>37BD6E</systemColor>
       <systemColorPalette1>C11127</systemColorPalette1>
