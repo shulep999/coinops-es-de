@@ -1,10 +1,10 @@
 <theme>
    <variables>
-      <systemDescription>The Atari Jaguar is a fifth generation (1993–2005) video game console developed and distributed by Atari Corporation. It was released in November 1993 in North America at a retail price of $249.99. The console was later released in Europe (1994), Australia (1994), and Japan (1994). The Jaguar was marketed as being the first 64-bit video game console; however this claim was widely criticized. The console was discontinued in early 1996, possibly at the time of the company's sale on April 8, 1996.</systemDescription>
+      <systemDescription>Atari Jaguar — игровая консоль, выпущенная в ноябре 1993 года компанией Atari. В своё время являлась мощной платформой следующего (пятого по счёту) поколения телевизионных игровых приставок. Поступила в продажу по цене 249,99 долларов. Рекламировалась как «первая 64-битная система», что было рекламной уловкой — CPU и GPU приставки имели RISC-подобную 32-битную архитектуру, 64-битным был графический сопроцессор «Том». Консоль разрабатывалась вместо отменённой ранее 32-битной Atari Panther; некоторые из игр, ранее планировавшихся для Panther, были переделаны для совместимости с Jaguar. Однако для приставки было выпущено ограниченное число игр, большинство из которых были низкого качества, что отрицательно сказалось на продажах консоли. К причинам провала также можно отнести неудачно выбранный носитель (картридж), неудобный джойстик и ценовую политику. Конкуренция с другими приставками, особенно использовавшими CD-диски как PlayStation, обрекла Atari Jaguar на провал. В период с конца 1993 по конец 1995 года было продано всего 125 тыс. экземпляров. И хотя производителем были предприняты попытки привлечь к консоли интерес покупателей, выпустив в спешном порядке адаптер для чтения компакт-дисков Atari Jaguar CD, устройство для сохранения состояния игры Memory Track и устройство для совместной игры на двух приставках JagLink, эти действия не смогли повысить продажи. Претерпев серьёзные убытки, Atari была вынуждена покинуть рынок игровых приставок.</systemDescription>
       <systemManufacturer>Atari</systemManufacturer>
       <systemReleaseYear>1993</systemReleaseYear>
-      <systemReleaseDate>1993-11-23</systemReleaseDate>
-      <systemReleaseDateFormated>November 23, 1993</systemReleaseDateFormated>
+      <systemReleaseDate>23.11.1993</systemReleaseDate>
+      <systemReleaseDateFormated>23 ноября 1993г.</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>CD3C3B</systemColor>
       <systemColorPalette1>FF0000</systemColorPalette1>
