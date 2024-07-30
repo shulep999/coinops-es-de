@@ -1,12 +1,10 @@
 <theme>
    <variables>
-      <systemDescription>The X68000 (Japanese: エックス ろくまんはっせん, Hepburn: Ekkusu Rokuman Hassen) is a home computer created by Sharp Corporation, first released in 1987, sold only in Japan.
-
-The first model features a 10 MHz Motorola 68000 CPU (hence the name), 1 MB of RAM, and no hard drive; the last model was released in 1993 with a 25 MHz Motorola 68030 CPU, 4 MB of RAM, and optional 80 MB SCSI hard drive. RAM in these systems is expandable to 12 MB, though most games and applications do not require more than 2 MB.</systemDescription>
+     <systemDescription>Sharp X68000, часто также называемый X68K — серия бытовых компьютеров, выпускавшихся в Японии компанией Sharp Corporation. В других странах эти компьютеры не продавались (В США эти модели экспортировали под брендами Compaq и Packard Bell соответственно с процессорами Intel 80286). Первая модель была выпущена в 1987 году. Она имела процессор Motorola 68000 на частоте 10 МГц, 1 мегабайт ОЗУ, и не имела жёсткого диска. Последняя модель выпущена в 1993 году, она использовала процессор Motorola 68030 на частоте 25 МГц, имела 4 мегабайта ОЗУ, и опциональный жёсткий диск стандарта SCSI объёмом 80 МБ. ОЗУ этих компьютеров могло быть расширено до 12 мегабайт, однако большинство приложений и игр требовали для своей работы не более 2 МБ ОЗУ.</systemDescription>
       <systemManufacturer>Sharp</systemManufacturer>
       <systemReleaseYear>1987</systemReleaseYear>
-      <systemReleaseDate>1987-03-01</systemReleaseDate>
-      <systemReleaseDateFormated>March 1, 1987</systemReleaseDateFormated>
+      <systemReleaseDate>01.03.1987г.</systemReleaseDate>
+      <systemReleaseDateFormated>01 март 1987г.</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
       <systemColor>6B6D70</systemColor>
       <systemColorPalette1>3B3B3B</systemColorPalette1>
