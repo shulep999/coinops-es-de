@@ -1,10 +1,10 @@
 <theme>
    <variables>
-      <systemDescription>The Amstrad GX4000, commonly known as the GX4000, is a third generation (1983-2003) video game console developed and distributed by Amstrad. It was released in September of 1990 in Europe at a retail price of £99.99. The console was not released outside Europe. The GX4000 was Amstrad's short-lived attempt to enter the games console market, being primarily a home computer manufacturer. The console was discontinued in late 1991.</systemDescription>
+      <systemDescription>Amstrad GX4000 — 8-битная игровая приставка на базе домашнего компьютера Amstrad CPC 6128+, выпущенная британской компанией Amstrad в 1990 году для европейского рынка. Относится к третьему поколению игровых систем. Особого успеха консоль не имела, её продажи и выпуски игр к ней прекратились уже в 1992 году. Во многих рецензиях Amstrad GX4000 называется крупнейшим или одним из крупнейших провалов в истории игровых систем.</systemDescription>
       <systemManufacturer>Amstrad</systemManufacturer>
       <systemReleaseYear>1990</systemReleaseYear>
-      <systemReleaseDate>1990-09-01</systemReleaseDate>
-      <systemReleaseDateFormated>September 1, 1990</systemReleaseDateFormated>
+      <systemReleaseDate>01.09.1990</systemReleaseDate>
+      <systemReleaseDateFormated>01 сентября 1990г.</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemColor>DD4B3C</systemColor>
       <systemColorPalette1>E5B3B2</systemColorPalette1>
