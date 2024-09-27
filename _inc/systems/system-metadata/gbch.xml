@@ -1,0 +1,17 @@
+<theme>
+   <variables>
+      <systemName>GBC Hacks</systemName>
+      <systemDescription>Game Boy Color (GBC) — портативная игровая система производства компании Nintendo, которая была выпущена в Японии 21 октября 1998 года, а на международных рынках в ноябре того же года. Она является преемницей Game Boy и входит в линейку Game Boy. Game Boy Color имеет цветной жидкокристаллический экран, но без подсветки. Она немного толще и выше и имеет немного меньший экран, чем Game Boy Pocket, её непосредственный предшественник в линейке Game Boy. Как и в оригинальном Game Boy, в ней установлен 8-битный процессор собственной разработки компании Sharp, который является гибридом Intel 8080 и Zilog Z80. Английское написание названия системы, Game Boy Color, используется во всем мире. Game Boy Color относится к пятому поколению игровых систем. Основными конкурентами GBC в Японии были 16-битные портативные игровые системы с экраном в оттенках серого, Neo Geo Pocket от SNK и WonderSwan от Bandai, однако Game Boy Color значительно превосходила их по продажам. В ответ SNK и Bandai выпустили Neo Geo Pocket Color и WonderSwan Color соответственно, но это мало что изменило в доминирующем положении Nintendo в продажах. Для системы вышло более 700 игр в различных жанрах (аркады, RPG, стратегии, симуляторы, спортивные игры). Также выходили игры в самых неожиданных для портативной консоли жанрах, например, в жанре survival horror (Alone in the Dark: The New Nightmare и Resident Evil Gaiden). 23 марта 2003 года Game Boy Color была снята с производства, вскоре после выхода Game Boy Advance SP. Самой продаваемой игрой для неё является Pokémon Gold and Silver, которая разошлась тиражом 23 миллиона экземпляров по всему миру.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1998</systemReleaseYear>
+      <systemReleaseDate>21.10.1998г.</systemReleaseDate>
+      <systemReleaseDateFormated>21 октября 1998г.</systemReleaseDateFormated>
+      <systemHardwareType>Portable</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
+      <systemColor>F3B92A</systemColor>
+      <systemColorPalette1>F63B77</systemColorPalette1>
+      <systemColorPalette2>2D308E</systemColorPalette2>
+      <systemColorPalette3>00B3DE</systemColorPalette3>
+      <systemColorPalette4>7642B6</systemColorPalette4>
+	  <systemCartSize>373-436</systemCartSize>    </variables>
+</theme>
