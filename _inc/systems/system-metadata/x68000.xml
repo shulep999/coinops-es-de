@@ -1,15 +1,17 @@
 <theme>
    <variables>
-     <systemDescription>Sharp X68000, часто также называемый X68K — серия бытовых компьютеров, выпускавшихся в Японии компанией Sharp Corporation. В других странах эти компьютеры не продавались (В США эти модели экспортировали под брендами Compaq и Packard Bell соответственно с процессорами Intel 80286). Первая модель была выпущена в 1987 году. Она имела процессор Motorola 68000 на частоте 10 МГц, 1 мегабайт ОЗУ, и не имела жёсткого диска. Последняя модель выпущена в 1993 году, она использовала процессор Motorola 68030 на частоте 25 МГц, имела 4 мегабайта ОЗУ, и опциональный жёсткий диск стандарта SCSI объёмом 80 МБ. ОЗУ этих компьютеров могло быть расширено до 12 мегабайт, однако большинство приложений и игр требовали для своей работы не более 2 МБ ОЗУ.</systemDescription>
+      <systemName>X68000</systemName>
+      <systemDescription>Sharp X68000, часто также называемый X68K — серия бытовых компьютеров, выпускавшихся в Японии компанией Sharp Corporation. В других странах эти компьютеры не продавались (В США эти модели экспортировали под брендами Compaq и Packard Bell соответственно с процессорами Intel 80286). Первая модель была выпущена в 1987 году. Она имела процессор Motorola 68000 на частоте 10 МГц, 1 мегабайт ОЗУ, и не имела жёсткого диска. Последняя модель выпущена в 1993 году, она использовала процессор Motorola 68030 на частоте 25 МГц, имела 4 мегабайта ОЗУ, и опциональный жёсткий диск стандарта SCSI объёмом 80 МБ. ОЗУ этих компьютеров могло быть расширено до 12 мегабайт, однако большинство приложений и игр требовали для своей работы не более 2 МБ ОЗУ.</systemDescription>
       <systemManufacturer>Sharp</systemManufacturer>
       <systemReleaseYear>1987</systemReleaseYear>
-      <systemReleaseDate>01.03.1987г.</systemReleaseDate>
-      <systemReleaseDateFormated>01 март 1987г.</systemReleaseDateFormated>
+      <systemReleaseDate>1987-03-01</systemReleaseDate>
+      <systemReleaseDateFormated>March 1, 1987</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>6B6D70</systemColor>
       <systemColorPalette1>3B3B3B</systemColorPalette1>
       <systemColorPalette2>838582</systemColorPalette2>
       <systemColorPalette3>C25F7F</systemColorPalette3>
       <systemColorPalette4>41BC83</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

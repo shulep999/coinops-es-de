@@ -1,15 +1,18 @@
 <theme>
    <variables>
-      <systemDescription>ZX Spectrum Next is an 8-bit home computer, initially released in 2017, which is compatible with software and hardware for the 1982 ZX Spectrum. It also has enhanced capabilities. It is intended to appeal to retrocomputing enthusiasts and to "encourage a new generation of bedroom coders", according to project member Jim Bagley.  Despite the name, the machine is not directly affiliated with Sinclair Research Ltd., Sir Clive Sinclair or the current owner of the trademarks, Sky Group.</systemDescription>
+      <systemName>ZX Spectrum Next</systemName>
+      <systemDescription>ZX Spectrum Next — 8-разрядный домашний компьютер, выпущенный в 2017, аппаратно и программно совместимый с ZX Spectrum (выпускавшимся в 1980-е годы). Также имеет некоторые расширенные возможности. Как и проект Atari Coldfire Project (по воссозданию Atari ST) ведётся группой волонтёров; необходимые для проектирования и выпуска средства собираются на платформе Kickstarter. Дизайн корпуса Next разработан Риком Дикинсоном, который разработал оригинальные Spectrum 48 и Spectrum+, но скончался во время разработки клавиатуры компьютера. Основан на дизайне оригинальных Spectrum+ и Spectrum 128, а не более поздних Spectrum +2 или +3 производства Amstrad. Получил в целом положительные отзывы в специализированной прессе.</systemDescription>
       <systemManufacturer>SpecNext Ltd.</systemManufacturer>
       <systemReleaseYear>2017</systemReleaseYear>
       <systemReleaseDate>2017</systemReleaseDate>
       <systemReleaseDateFormated>2017</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>32323D</systemColor>
       <systemColorPalette1>CA2825</systemColorPalette1>
       <systemColorPalette2>EDBA01</systemColorPalette2>
       <systemColorPalette3>009C37</systemColorPalette3>
       <systemColorPalette4>02559C</systemColorPalette4>
+	  <systemCartSize>1-1</systemCartSize>
    </variables>
 </theme>

@@ -1,15 +1,19 @@
 <theme>
    <variables>
-        <systemDescription>WonderSwan — портативная игровая консоль компании Bandai, выпущенная в 1999 году только в Японии. Её разработкой занималась сама компания Bandai, при содействии компании Koto Laboratory Гумпэя Ёкои. WonderSwan должна была стать соперником таких портативных консолей как Neo Geo Pocket Color и Game Boy Color (и это несмотря на то, что разработчик WonderSwan, Гумпэй Ёкои, также разработал для Nintendo оригинальный Game Boy). Консоль WonderSwan была позднее заменена на WonderSwan Color. И хотя некоторые игры для WonderSwan Color были совместимы с WonderSwan, многие были разработаны специально для неё и выдавали сообщение об ошибке, когда их пытались использовать вместе с WonderSwan. Для WonderSwan было выпущено достаточно большое количество игр, в которые можно было играть с вертикальным или горизонтальным экраном. Однако, поскольку консоль была нацелена в первую очередь на японский рынок, то только небольшое количество игр имеет английский текст. Выпущенная в конце 2000 года WonderSwan Color была более популярной, чем её предшественница. Она обладала цветным дисплеем, который был немного больше чёрно-белого дисплея WonderSwan, большим количеством оперативной памяти, а также была полностью совместима с играми для WonderSwan. На пике популярности консоли, компании Bandai принадлежало примерно 8 % рынка Японии, что достаточно много, учитывая, что основным конкурентом была компания Nintendo. Частично это объясняется достаточно низкой ценой на консоль (порядка $65), но самой важной составляющей успеха явился контракт с компанией SquareSoft, по которому на консоли должны были выйти ремейки первых игр серии Final Fantasy. Однако, с ростом популярности Game Boy Advance и восстановлением партнёрских отношений между SquareSoft и Nintendo, консоль WonderSwan Color, а также сменившая её Swan Crystal быстро утратили своё конкурентное преимущество.</systemDescription>
+      <systemName>WonderSwan</systemName>
+      <systemDescription>WonderSwan — портативная игровая консоль компании Bandai, выпущенная в 1999 году только в Японии. Её разработкой занималась сама компания Bandai, при содействии компании Koto Laboratory Гумпэя Ёкои. WonderSwan должна была стать соперником таких портативных консолей как Neo Geo Pocket Color и Game Boy Color (и это несмотря на то, что разработчик WonderSwan, Гумпэй Ёкои, также разработал для Nintendo оригинальный Game Boy).
+
+      Консоль WonderSwan была позднее заменена на WonderSwan Color. И хотя некоторые игры для WonderSwan Color были совместимы с WonderSwan, многие были разработаны специально для неё и выдавали сообщение об ошибке, когда их пытались использовать вместе с WonderSwan. Для WonderSwan было выпущено достаточно большое количество игр, в которые можно было играть с вертикальным или горизонтальным экраном. Однако, поскольку консоль была нацелена в первую очередь на японский рынок, то только небольшое количество игр имеет английский текст.</systemDescription>
       <systemManufacturer>Bandai</systemManufacturer>
-      <systemReleaseYear>1999г.</systemReleaseYear>
-      <systemReleaseDate>04.03.1999г.</systemReleaseDate>
-      <systemReleaseDateFormated>04 марта 1999г.</systemReleaseDateFormated>
+      <systemReleaseYear>1999</systemReleaseYear>
+      <systemReleaseDate>1999-03-04</systemReleaseDate>
+      <systemReleaseDateFormated>March 4, 1999</systemReleaseDateFormated>
       <systemHardwareType>Portable</systemHardwareType>
+      <systemCoverSize>5-7</systemCoverSize>
       <systemColor>76CDBE</systemColor>
       <systemColorPalette1>8797A4</systemColorPalette1>
       <systemColorPalette2>DBE0E1</systemColorPalette2>
       <systemColorPalette3>E72835</systemColorPalette3>
       <systemColorPalette4>282827</systemColorPalette4>
-   </variables>
+	  <systemCartSize>112-67</systemCartSize>    </variables>
 </theme>
