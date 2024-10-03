@@ -1,15 +1,20 @@
 <theme>
    <variables>
-      <systemDescription>Multi Emulator Super System (MESS) is an emulator for various consoles and computer systems, based on the MAME core. It used to be a standalone program (which has since been discontinued), but is now integrated into MAME (which is actively developed). MESS emulates portable and console gaming systems, computer platforms, and calculators. The project strives for accuracy and portability and therefore is not always the fastest emulator for any one particular system. Its accuracy makes it also useful for homebrew game development.</systemDescription>
+      <systemName>MESS</systemName>
+      <systemDescription>MESS (сокращение от Multiple Emulator Super System) — эмулятор для многих игровых консолей и компьютерных систем, основанный на ядре MAME. Основное назначение MESS — сохранить историю десятилетий компьютерных программ и видеоигр. MESS позволяет запускать программы для устаревших систем, с тем чтобы информация о них не была утеряна и забыта, несмотря на то, что появилось много новых программ.
+         В мае 2015 года MESS влился в кодовую базу исходного эмулятора MAME.
+
+         MESS эмулирует портативные и консольные игровые системы, компьютерные платформы и вычислительные машины. Проект стремится к точности и портативности, поэтому не всегда является самым быстрым эмулятором для какой-либо конкретной системы. Благодаря своей точности он также полезен для разработки домашних игр.</systemDescription>
       <systemManufacturer>MESS Team</systemManufacturer>
       <systemReleaseYear>1998</systemReleaseYear>
       <systemReleaseDate>1998</systemReleaseDate>
       <systemReleaseDateFormated>1998</systemReleaseDateFormated>
       <systemHardwareType>Emulator</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>5B60B7</systemColor>
       <systemColorPalette1>FFA102</systemColorPalette1>
       <systemColorPalette2>A05F00</systemColorPalette2>
       <systemColorPalette3>FFEFD5</systemColorPalette3>
       <systemColorPalette4>FFD183</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

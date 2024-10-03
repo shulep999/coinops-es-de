@@ -1,15 +1,17 @@
 <theme>
    <variables>
-     <systemDescription>Nintendo 64DD является периферийным устройством для игровой приставки Nintendo 64. Оно подключается через дополнительный порт с нижней стороны Nintendo 64 и позволяло использовать на N64 магнитные диски размером 64 мегабайта для расширенного хранения данных. Хотя о запуске этого устройства впервые было заявлено до запуска N64, работы над 64DD сильно затянулись. Устройство было выпущено в Японии, когда популярность консоли пошла на спад, и в конце признано коммерчески неудачным; оно никогда не запускалось в продажу в США или в Европе.</systemDescription>
+      <systemName>64DD</systemName>
+      <systemDescription>Nintendo 64DD («DD» — сокращено от «Disk Drive» и, первоначально, «Dynamic Drive») является периферийным устройством для игровой приставки Nintendo 64. Оно подключается через дополнительный порт с нижней стороны Nintendo 64 и позволяло использовать на N64 магнитные диски размером 64 мегабайта для расширенного хранения данных. Хотя о запуске этого устройства впервые было заявлено до запуска N64, работы над 64DD сильно затянулись. Устройство было выпущено в Японии, когда популярность консоли пошла на спад, и в конце признано коммерчески неудачным; оно никогда не запускалось в продажу в США или в Европе.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1999</systemReleaseYear>
-      <systemReleaseDate>01.12.1999г.</systemReleaseDate>
-      <systemReleaseDateFormated>1 декабря 1999г.</systemReleaseDateFormated>
+      <systemReleaseDate>1999-12-01</systemReleaseDate>
+      <systemReleaseDateFormated>December 1, 1999</systemReleaseDateFormated>
       <systemHardwareType>Peripheral</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>19B65F</systemColor>
       <systemColorPalette1>DCAF36</systemColorPalette1>
       <systemColorPalette2>268340</systemColorPalette2>
       <systemColorPalette3>20317F</systemColorPalette3>
       <systemColorPalette4>B73E3A</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

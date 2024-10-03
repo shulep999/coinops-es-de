@@ -1,15 +1,19 @@
 <theme>
    <variables>
-     <systemDescription>Neo Geo Pocket, сокращённо NGP — портативная игровая приставка, созданная компанией SNK Playmore и выпущенная в 1998 году. Цветная версия приставки, названная Neo Geo Pocket Color, была выпущена в мае 1999 года. Neo Geo Pocket была запущена 27 октября 1998 года в продажу в Японии. У приставки был жидкокристаллический экран, способный воспроизводить восемь оттенков серого, разъем для стереонаушников, запас в 20 часов автономной работы и встроенный аккумулятор для сохранений. На портативном устройстве также предусмотрены некоторые основные функции карманных персональных компьютеров, такие как часы, календарь и генератор гороскопов. Как и у Game Boy, игровые картриджи вставлялись в заднюю часть устройства. Neo Geo Pocket считается неудачной игровой приставкой. Более низкие, чем ожидалось, продажи привели к прекращению её производства в 1999 году, и сразу же была выпущена полноцветная версия под названием Neo Geo Pocket Color. Несмотря на то, что система просуществовала недолго, на ней было выпущено несколько важных игр, таких как Samurai Shodown и King of Fighters R-1.</systemDescription>
+      <systemName>Neo Geo Pocket</systemName>
+      <systemDescription>Neo Geo Pocket, сокращённо NGP — портативная игровая приставка, созданная компанией SNK Playmore. Это была первая портативная система компании, входящая в семейство Neo Geo. Она дебютировала в Японии в конце 1998 года, но так и не была выпущена в Америке, оставшись эксклюзивом для Японии, Азии и Европы. У приставки был жидкокристаллический экран, способный воспроизводить восемь оттенков серого, разъем для стереонаушников, запас в 20 часов автономной работы и встроенный аккумулятор для сохранений. На портативном устройстве также предусмотрены некоторые основные функции карманных персональных компьютеров, такие как часы, календарь и генератор гороскопов. Как и у Game Boy, игровые картриджи вставлялись в заднюю часть устройства.
+
+      Neo Geo Pocket считается неудачной игровой приставкой. Более низкие, чем ожидалось, продажи привели к прекращению её производства в 1999 году, и сразу же была выпущена полноцветная версия под названием Neo Geo Pocket Color. Несмотря на то, что система просуществовала недолго, на ней было выпущено несколько важных игр, таких как Samurai Shodown и King of Fighters R-1.</systemDescription>
       <systemManufacturer>SNK</systemManufacturer>
       <systemReleaseYear>1998</systemReleaseYear>
-      <systemReleaseDate>31.12.1998г.</systemReleaseDate>
-      <systemReleaseDateFormated>31 декабря 1998г.</systemReleaseDateFormated>
+      <systemReleaseDate>1998-12-31</systemReleaseDate>
+      <systemReleaseDateFormated>December 31, 1998</systemReleaseDateFormated>
       <systemHardwareType>Portable</systemHardwareType>
+      <systemCoverSize>373-436</systemCoverSize>
       <systemColor>ECA045</systemColor>
       <systemColorPalette1>B2B8BD</systemColorPalette1>
       <systemColorPalette2>E92A30</systemColorPalette2>
       <systemColorPalette3>25374A</systemColorPalette3>
       <systemColorPalette4>0F1520</systemColorPalette4>
-   </variables>
+	  <systemCartSize>257-229</systemCartSize>    </variables>
 </theme>

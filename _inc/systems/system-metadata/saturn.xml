@@ -1,15 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>Sega Saturn — домашняя игровая приставка, разработанная компанией Sega и выпущенная 22 ноября 1994 года в Японии, 11 мая 1995 года в Северной Америке и 8 июля 1995 года в Европе. Являясь частью пятого поколения игровых видео консолей, она стала преемницей успешной игровой приставки Sega Genesis. Saturn имеет двухпроцессорную архитектуру. Игры выпускались в формате CD-ROM, а библиотека игр состоит как из оригинальных игр, так и из портов игр с аркадных автоматов. Для приставки можно было купить картриджи-аддоны, например, картридж для увеличения RAM-памяти на 4 мегабайта, картридж для хранения сохранений в играх или картридж для улучшения 2D-анимации. Разработка Saturn началась в 1992 году, а в том же году состоялся дебют Sega Model 1, новой системы для аркадных автоматов с поддержкой трёхмерной графики. Аппаратное обеспечение Saturn было спроектировано на базе нового процессора SuperH-2 японской компании Hitachi. В начале 1994 года Sega добавила ещё один графический процессор, чтобы лучше конкурировать с грядущей игровой приставкой Sony PlayStation.</systemDescription>
+      <systemName>Sega Saturn</systemName>
+      <systemDescription>Sega Saturn — домашняя игровая приставка, разработанная компанией Sega и выпущенная 22 ноября 1994 года в Японии, 11 мая 1995 года в Северной Америке и 8 июля 1995 года в Европе. Являясь частью пятого поколения игровых видео консолей, она стала преемницей успешной игровой приставки Sega Genesis. Saturn имеет двухпроцессорную архитектуру. Игры выпускались в формате CD-ROM, а библиотека игр состоит как из оригинальных игр, так и из портов игр с аркадных автоматов.
+
+      Разработка Saturn началась в 1992 году, а в том же году состоялся дебют Sega Model 1, новой системы для аркадных автоматов с поддержкой трёхмерной графики. Аппаратное обеспечение Saturn было спроектировано на базе нового процессора SuperH-2 японской компании Hitachi. В начале 1994 года Sega добавила ещё один графический процессор, чтобы лучше конкурировать с грядущей игровой приставкой Sony PlayStation.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1995</systemReleaseYear>
-      <systemReleaseDate>11.05.1995г.</systemReleaseDate>
-      <systemReleaseDateFormated>11 мая 1995г.</systemReleaseDateFormated>
+      <systemReleaseDate>1995-05-11</systemReleaseDate>
+      <systemReleaseDateFormated>May 11, 1995</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>145-205</systemCoverSize>
       <systemColor>597BD8</systemColor>
       <systemColorPalette1>0D7176</systemColorPalette1>
       <systemColorPalette2>D1AE44</systemColorPalette2>
       <systemColorPalette3>2740A5</systemColorPalette3>
       <systemColorPalette4>86254A</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

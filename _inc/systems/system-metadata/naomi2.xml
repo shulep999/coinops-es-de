@@ -1,17 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Sega NAOMI 2 is an arcade board developed by Sega and is a successor to Sega NAOMI hardware. It was originally released in 2000. Since it uses similar NAOMI architecture (but significantly beefed up), it is also fully backwards compatible with its predecessor.
-
-The NAOMI 2 is significantly more powerful than the NAOMI, including a dual CPU setup, new T&amp;L GPU, dual rasterizer GPU, increased memory, and faster bandwidth. This leads to games with much more polygons than a NAOMI game, rendered at much faster speeds, while the new T&amp;L GPU adds advanced lighting and particle effects. It was also more affordable than the very expensive (and difficult to program) Sega Hikaru arcade system that preceded it. The NAOMI 2 was nevertheless more powerful than home systems at the time.</systemDescription>
+      <systemName>Naomi 2</systemName>
+      <systemDescription>Sega NAOMI 2 (New Arcade Operation Machine Idea) — аркадная система, преемник аркадной системы Sega NAOMI. Она была создана компанией Sega в 2000 году. NAOMI 2 зарекомендовала себя в то время как эталон мощности в игровых автоматах, используя ноу-хау Sega в этой области, послужив высококачественной заменой Sega HIKARU. Кроме того, она была более доступной, чем предшествовавшая ей очень дорогая (и сложная в программировании) аркадная система Sega HIKARU. Система предлагает улучшенную графическую производительность благодаря увеличенным графическим возможностям оригинального оборудования NAOMI. Теперь она оснащена двумя чипами PowerVR CLX2, чипом VideoLogic ELAN, объём графической памяти удвоен с 16 MB до 32 MB (в четыре раза больше, чем у Dreamcast), что позволяет отображать больше графических деталей.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>2000</systemReleaseYear>
       <systemReleaseDate>2000</systemReleaseDate>
       <systemReleaseDateFormated>2000</systemReleaseDateFormated>
       <systemHardwareType>Arcade</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>E27E16</systemColor>
       <systemColorPalette1>E4E7D7</systemColorPalette1>
       <systemColorPalette2>FD95B0</systemColorPalette2>
       <systemColorPalette3>48B3EB</systemColorPalette3>
       <systemColorPalette4>35FF90</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

@@ -1,0 +1,17 @@
+<theme>
+   <variables>
+      <systemName>Namco System 246/256</systemName>
+      <systemDescription>Namco System 246 — система, совместимая с Sony PlayStation 2, использовавшаяся для производства игровых автоматов. Namco System 246 была выпущена в 2001 году. Как и Sega NAOMI, лицензировалась и использовалась сторонними производителями. В семейство System 246 входят и другие модификации: Namco System 256, является улучшенной версией 246; Namco System 147, вместо DVD-ROM используются микросхемы ROM на системной плате.</systemDescription>
+      <systemManufacturer>Namco/Sony</systemManufacturer>
+      <systemReleaseYear>2001</systemReleaseYear>
+      <systemReleaseDate>2001-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 2001</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
+      <systemColor>BB3F41</systemColor>
+      <systemColorPalette1>B2B2B2</systemColorPalette1>
+      <systemColorPalette2>FE0000</systemColorPalette2>
+      <systemColorPalette3>333333</systemColorPalette3>
+      <systemColorPalette4>D9D9D9</systemColorPalette4>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
+</theme>

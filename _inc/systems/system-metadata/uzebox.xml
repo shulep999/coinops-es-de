@@ -1,17 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Uzebox is a retro-minimalist 8-bit open source game console. It is based on an AVR 8-bit general purpose microcontroller made by Atmel. The particularity of the system is that it uses an interrupt driven kernel and has no frame buffer. Functions such as video signal generation, tile rendering and music mixing is done in realtime by a background task so your game can easily be developed in C.
-
-   The design goal was to be as simple as possible yet have good enough sound and graphics to implement interesting games. Emphasis was put on making it easy and fun to assemble and program for any hobbyists. The final design contains only two chips: an ATmega644 and an AD725 RGB-to-NTSC converter.</systemDescription>
-      <systemManufacturer>Belogic Software</systemManufacturer>
+      <systemName>Uzebox</systemName>
+      <systemDescription>Uzebox — ретро-минималистическая игровая видеоприставка, являющаяся разработкой с общедоступными наработками. Основана на 8-разрядных микроконтроллерах общего назначения AVR от Atmel. Особенностью системы является то, что она использует ядро, управляемое прерываниями, и не содержит видеобуфера. Такие функции как синхронизация видео, рендеринг кадра по таблице и сведение музыки осуществляются в реальном времени как фоновые задачи, так что игры под эту приставку легко могут быть разработаны на Си. Целью данной разработки являлось создание устройства с максимально простой архитектурой, обеспечивающей достаточно хороший звук и изображение, и при этом оставляющей достаточно ресурсов для реализации интересных игр. Особое внимание было уделено обеспечению возможности практически любому радиолюбителю легко и быстро собрать и запрограммировать эту игровую приставку. Итоговая разработка содержит только две микросхемы: ATmega644 и преобразователь видеосигнала из RGB в NTSC — AD725.</systemDescription>
+      <systemManufacturer>Belogic</systemManufacturer>
       <systemReleaseYear>2008</systemReleaseYear>
       <systemReleaseDate>2008-08-24</systemReleaseDate>
       <systemReleaseDateFormated>August 24, 2008</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>CE3D3D</systemColor>
       <systemColorPalette1>C43F32</systemColorPalette1>
       <systemColorPalette2>EDC63D</systemColorPalette2>
       <systemColorPalette3>C9C2BF</systemColorPalette3>
       <systemColorPalette4>07336A</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

@@ -1,19 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>NEC PC-9801 - a not quite industry standard PC line of personal computers developed in 1982 in Japan by NEC Corporation based on IBM solutions, aimed exclusively at the Japanese market.
-
-The first model was a 16-bit architecture with an Intel 8086 processor clocked at 5 MHz and 128 KB of RAM. It shipped with graphics cards capable of displaying 8 colors at 640x400 resolution - a clear performance differentiator compared to PCs of the time.
-
-Initially conceived as a solution for industrial and office applications, by 1987 the PC-9801 series captured nearly 90% of the Japanese personal computer market. Over time, as power increased and graphics and sound effects were appreciated by home users (especially gamers), it also became popular for non-commercial applications - the Touhou Project series, for example, made its debut.</systemDescription>
+      <systemName>PC-98</systemName>
+      <systemDescription>NEC PC-9800 (сокращённо PC-98, PC-98XX) — форм-фактор компьютеров производства NEC, доминировавший на японском рынке персональных компьютеров для дома и бизнеса в 1980—1990-х годах. Первая модель стандарта PC-98 — PC-9801 — была выпущена в октябре 1982 года. Она была оснащена процессором Intel 8086 с частотой 5 МГц, двумя графическими контроллерами µPD7220 (один для текста, другой для графики), 128 Кб оперативной памяти, расширяемой до 640 Кб. 8-цветный дисплей имел максимальное разрешение 640×400 пикселей. Следующая модель, PC-9801E, появившаяся в 1983 году была оснащена процессором 8086-2, который мог переключаться между частотами в 5 и 8 МГц. В начале 1990-х 50 % всех проданных в Японии компьютеров были PC-98. Последним из представителей линейки этих компьютеров был PC-9821Ra43, основанный на процессоре Celeron с частотой 433 МГц, появившийся в 2000 году.</systemDescription>
       <systemManufacturer>NEC</systemManufacturer>
       <systemReleaseYear>1982</systemReleaseYear>
       <systemReleaseDate>1982-10-01</systemReleaseDate>
       <systemReleaseDateFormated>October 1, 1982</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>5185B2</systemColor>
       <systemColorPalette1>951610</systemColorPalette1>
       <systemColorPalette2>16643C</systemColorPalette2>
       <systemColorPalette3>00499A</systemColorPalette3>
       <systemColorPalette4>3B3431</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

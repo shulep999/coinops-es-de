@@ -1,15 +1,17 @@
 <theme>
    <variables>
-     <systemDescription>PC Engine SuperGrafx, также известная как просто SuperGrafx , — это домашняя игровая консоль четвёртого поколения, производимая NEC Home Electronics и выпущенная в Японии в 1989 году. Она является преемницей системы PC Engine, выпущенной двумя годами ранее. Первоначально известная как PC Engine 2 на этапах производства, она была заявлена ​​как настоящая 16-битная домашняя консоль, отличающаяся улучшенными графическими и звуковыми возможностями по сравнению со своей предшественницей. Консоль была срочно выпущена на рынок, выпущена за несколько месяцев до первоначальной предполагаемой даты выпуска в 1990 году, имея лишь скромные обновления оборудования. Поскольку было выпущено всего шесть розничных игр, которые использовали аппаратные обновления консоли, SuperGrafx оказался коммерческим провалом, было продано всего 75 000 единиц. Ни одно из аппаратных усовершенствований, которыми она обладала, не было перенесено в более поздние модели PC Engine, такие как Duo.</systemDescription>
+      <systemName>SuperGrafx</systemName>
+      <systemDescription>PC Engine SuperGrafx, выпущенный в тот же день, как и CoreGrafx в Японии, является усовершенствованной вариацией аппаратных средств PC Engine с обновленными характеристиками. Эта модель имеет второй HuC6270A (VDC), HuC6202 (VDP), который объединяет вывод двух VDC, в четыре раза больше RAM, вдвое больше видео RAM. Он также использует обновленный процессор HuC6280a, но звуковая и цветовая палитра не была обновлена, что делает высокую цену большим недостатком системы. В результате только пять эксклюзивных игр SuperGrafx и две гибридные игры (Darius Plus и Darius Alpha были выпущены как стандартные карты HuCard, в которых использовалось дополнительное видеооборудование при воспроизведении на SuperGrafx), и система была быстро прекращена. SuperGrafx имеет тот же порт расширения, что и предыдущие консоли PC Engine, но из-за большого размера консоли SuperGrafx для использования оригинальной надстройки системы CD-ROM² требуется адаптер.</systemDescription>
       <systemManufacturer>NEC</systemManufacturer>
       <systemReleaseYear>1989</systemReleaseYear>
       <systemReleaseDate>1989-12-08</systemReleaseDate>
       <systemReleaseDateFormated>December 8, 1989</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>69b5dc</systemColor>
       <systemColorPalette1>B2B2B2</systemColorPalette1>
       <systemColorPalette2>0091AD</systemColorPalette2>
       <systemColorPalette3>000000</systemColorPalette3>
       <systemColorPalette4>D9D9D9</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

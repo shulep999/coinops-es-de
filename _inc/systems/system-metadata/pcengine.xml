@@ -1,15 +1,17 @@
 <theme>
    <variables>
-       <systemDescription>PC Engine, он же TurboGrafx-16 — 8-16 разрядная игровая приставка, выпущенная NEC в Японии 30 октября 1987 года, в Северной Америке в конце августа 1989 года под именем TurboGrafx-16. В регионе PAL приставка не продавалась, если не считать релиза в 1990 году в Великобритании. Эта версия называлась TurboGrafx и была выпущена в очень ограниченном количестве. Неофициально эта версия продавалась во Франции, Испании и Бенилюксе. PC Engine была 8-разрядной приставкой с двойным 16-разрядным графическим процессором, с возможностью отображения 482 цветов одновременно. Относится к четвёртому поколению консолей. PC Engine по тем временам была системой нового поколения. Носителем был картридж в формате HuCard. Компания NEC первая стала выпускать игры на компакт-дисках, в которые можно было играть, используя дополнительное устройство — Turbografx CD. Небольшие размеры PC Engine — всего 14 см x 14 см x 3.8 см (5.5 дюймов x 5.5 дюймов x 1.5 дюйма) — позволили ей стать рекордсменом в звании самой маленькой игровой приставки из когда-либо созданных, по версии книги рекордов Гиннесса в области компьютерных игр (англ. Guinness World Records Gamer’s Edition, 2008). В 2009 году PC Engine была помещена на тринадцатое место в списке «25 игровых приставок всех времён» по версии сайта IGN.</systemDescription>
+      <systemName>PC Engine</systemName>
+      <systemDescription>PC Engine, он же TurboGrafx-16 — 8-16 разрядная игровая приставка, выпущенная NEC в Японии 30 октября 1987 года, в Северной Америке в конце августа 1989 года под именем TurboGrafx-16. В регионе PAL приставка не продавалась, если не считать релиза в 1990 году в Великобритании. Эта версия называлась TurboGrafx и была выпущена в очень ограниченном количестве. Неофициально эта версия продавалась во Франции, Испании и Бенилюксе. PC Engine была 8-разрядной приставкой с двойным 16-разрядным графическим процессором, с возможностью отображения 482 цветов одновременно. Относится к четвёртому поколению консолей. В 2009 году PC Engine была помещена на тринадцатое место в списке «25 игровых приставок всех времён» по версии сайта IGN.</systemDescription>
       <systemManufacturer>NEC</systemManufacturer>
       <systemReleaseYear>1987</systemReleaseYear>
-      <systemReleaseDate>30.10.1987г.</systemReleaseDate>
-      <systemReleaseDateFormated>30 октября 1987г.</systemReleaseDateFormated>
+      <systemReleaseDate>1987-10-30</systemReleaseDate>
+      <systemReleaseDateFormated>October 30, 1987</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>BB3F41</systemColor>
       <systemColorPalette1>B2B2B2</systemColorPalette1>
       <systemColorPalette2>FE0000</systemColorPalette2>
       <systemColorPalette3>333333</systemColorPalette3>
       <systemColorPalette4>D9D9D9</systemColorPalette4>
-   </variables>
+	  <systemCartSize>3-5</systemCartSize>    </variables>
 </theme>

@@ -1,15 +1,19 @@
 <theme>
    <variables>
-     <systemDescription>CD-ROM — это дополнение к PC Engine, выпущенное в Японии 4 декабря 1988 года. Это дополнение позволяет базовым версиям консоли воспроизводить игры PC Engine в формате CD-ROM в дополнение к стандартным играм. HuCards. Это сделало PC Engine первой игровой консолью, использующей CD-ROM в качестве носителя информации. Дополнение состояло из двух устройств — самого проигрывателя компакт-дисков и интерфейсного блока, который соединяет проигрыватель компакт-дисков с консолью и обеспечивает унифицированное питание и выход для обоих. Позже он был выпущен как TurboGrafx-CD в США в ноябре 1989 года с переработанным интерфейсным блоком, чтобы соответствовать другой форме консоли TurboGrafx-16. Стартовая цена TurboGrafx-CD составляла 399,99 долларов, и в него не входили никакие игры. Fighting Street и Monster Lair были названиями запуска TurboGrafx-CD; вскоре последовали Ys Book I и II.</systemDescription>
+      <systemName>PC Engine CD-ROM²</systemName>
+      <systemDescription>CD-ROM² (произносится как CD-ROM-ROM) - это дополнительный аддон для PC Engine, который был выпущен в Японии 4 декабря 1988 года. Это дополнение позволяет основным версиям консоли воспроизводить игры PC Engine в формате CD-ROM в дополнение к стандартным карточкам HuCards. Таким образом, PC Engine стала первой игровой консолью, использующей CD-ROM в качестве носителя информации. Дополнение состояло из двух устройств - самого CD-плеера и интерфейсного блока, который соединял CD-плеер с консолью и обеспечивал единый блок питания и выход для обоих.
+
+      Позже, в ноябре 1989 года, оно было выпущено в США под названием TurboGrafx-CD, с измененным интерфейсным блоком, чтобы соответствовать другой форме консоли TurboGrafx-16. Стартовая цена TurboGrafx-CD составляла $399,99, и в комплект поставки не входило ни одной игры. Стартовыми играми для TurboGrafx-CD стали Fighting Street и Monster Lair; вскоре за ними последовали Ys Book I и II.</systemDescription>
       <systemManufacturer>NEC</systemManufacturer>
       <systemReleaseYear>1988</systemReleaseYear>
-      <systemReleaseDate>04.12.1988г.</systemReleaseDate>
-      <systemReleaseDateFormated>04 декабря 1988г.</systemReleaseDateFormated>
+      <systemReleaseDate>1988-12-04</systemReleaseDate>
+      <systemReleaseDateFormated>December 4, 1988</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>5E8FC8</systemColor>
       <systemColorPalette1>B2B2B2</systemColorPalette1>
       <systemColorPalette2>FE0000</systemColorPalette2>
       <systemColorPalette3>333333</systemColorPalette3>
       <systemColorPalette4>D9D9D9</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

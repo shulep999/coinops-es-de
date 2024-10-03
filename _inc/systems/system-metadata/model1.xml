@@ -1,0 +1,17 @@
+<theme>
+   <variables>
+      <systemName>Sega Model 1</systemName>
+      <systemDescription>Sega Model 1 - игровая система, выпущенная компанией Sega в 1992 году и ставшая преемницей Sega System 32 (выпущенной в 1990 году). В то время как более раннее оборудование Sega могло работать с 3D-полигонами (например, Mega Drive, выпущенная в 1988 году), Model 1 стала первым оборудованием Sega, специально разработанным для 3D-полигональной графики.</systemDescription>
+      <systemManufacturer>Sega</systemManufacturer>
+      <systemReleaseYear>1992</systemReleaseYear>
+      <systemReleaseDate>1992-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1992</systemReleaseDateFormated>
+      <systemHardwareType>Arcade</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
+      <systemColor>439AE9</systemColor>
+      <systemColorPalette1>034693</systemColorPalette1>
+      <systemColorPalette2>FFFFFF</systemColorPalette2>
+      <systemColorPalette3>000000</systemColorPalette3>
+      <systemColorPalette4>4C9EFB</systemColorPalette4>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
+</theme>

@@ -1,10 +1,12 @@
 <theme>
    <variables>
-      <systemDescription>Programs, scripts and utilities to manage your set up.</systemDescription>
+      <systemName>Инструменты</systemName>
+      <systemDescription>Программы, скрипты и утилиты для управления настройками.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>
       <systemReleaseDateFormated>Various</systemReleaseDateFormated>
       <systemHardwareType>Folder</systemHardwareType>
-   </variables>
+      <systemCoverSize>1-1</systemCoverSize>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

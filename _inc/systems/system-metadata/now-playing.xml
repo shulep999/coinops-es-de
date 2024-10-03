@@ -1,10 +1,12 @@
 <theme>
    <variables>
-      <systemDescription>Quickly access and complete the games on your backlog.</systemDescription>
+      <systemName>Сейчас играю</systemName>
+      <systemDescription>Список игр, которые вы сейчас проходите.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>
       <systemReleaseDateFormated>Various</systemReleaseDateFormated>
       <systemHardwareType>Collection</systemHardwareType>
-   </variables>
+      <systemCoverSize>1-1</systemCoverSize>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

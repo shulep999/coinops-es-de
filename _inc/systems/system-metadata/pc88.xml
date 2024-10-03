@@ -1,17 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>The PC-8800 series (Japanese: PC-8800シリーズ, Hepburn: Pī Shī Hassen Happyaku Shirīzu), commonly shortened to PC-88, are a brand of Zilog Z80-based 8-bit home computers released by Nippon Electric Company (NEC) in 1981 and primarily sold in Japan.
+      <systemName>PC-88</systemName>
+      <systemDescription>NEC PC-8800 (неформальное название — PC-88) — семейство восьмибитных компьютеров компании NEC на базе Z80-совместимого процессора. Компьютеры семейства являлись одними из самых популярных в Японии благодаря сбалансированному соотношению «цена-характеристики». Начиная с модели mkIISR компьютеры поставлялись также в США, но там большой популярности им получить не удалось.
 
-The PC-8800 series sold extremely well and became one of the four major Japanese home computers of the 1980s, along with the Fujitsu FM-7, Sharp X1 and the MSX computers. It was later eclipsed by NEC's 16-bit PC-9800 series, although it still maintained strong sales up until the early 90s.</systemDescription>
+      Первые модели семейства позиционировались как бизнес-решения, но после выхода в 1982 году PC-9801 компьютер стал продвигаться как устройство для хобби и игр. Модель PC-8801mkIISR, серьёзно улучшенная в плане графики и звука, окончательно закрепила это направление. Упадок семейства начался в 1987 году, когда вычислительных мощностей для игр стало не хватать. Игроки стали переходить на более мощные PC-98 и Sharp X68000.</systemDescription>
       <systemManufacturer>NEC</systemManufacturer>
       <systemReleaseYear>1981</systemReleaseYear>
       <systemReleaseDate>1981-11</systemReleaseDate>
       <systemReleaseDateFormated>November 1981</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>3C518B</systemColor>
       <systemColorPalette1>B6A781</systemColorPalette1>
       <systemColorPalette2>342B22</systemColorPalette2>
       <systemColorPalette3>938CAA</systemColorPalette3>
       <systemColorPalette4>77B7C6</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

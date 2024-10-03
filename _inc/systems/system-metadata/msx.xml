@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>MSX (Machines with Software eXchangeability) — название стандарта для бытовых компьютеров 1980-х годов. Он являлся попыткой создания единых стандартов для разработчиков аппаратного обеспечения, инициированной японским отделением компании Microsoft и Кадзухико Ниси, возглавлявшим его на тот момент. Также в разработке стандарта участвовала японская компания ASCII Corporation, основанная Ниси совместно с Кадзуя Ватанабэ специально для этой цели. Компьютеры стандарта MSX получили большую популярность в Японии и ряде других стран, однако, несмотря на поддержку Microsoft, почти не получили известности в США и Европе. Всего в мире было продано более 7,5 миллиона экземпляров MSX-совместимых компьютеров, из них 5 млн — в Японии.</systemDescription>
+      <systemName>MSX</systemName>
+      <systemDescription>MSX (Machines with Software eXchangeability) — название стандарта для бытовых компьютеров 1980-х годов. Он являлся попыткой создания единых стандартов для разработчиков аппаратного обеспечения, инициированной японским отделением компании Microsoft и Кадзухико Ниси, возглавлявшим его на тот момент. Также в разработке стандарта участвовала японская компания ASCII Corporation, основанная Ниси совместно с Кадзуя Ватанабэ специально для этой цели. Компьютеры стандарта MSX получили большую популярность в Японии и ряде других стран, однако, несмотря на поддержку Microsoft, почти не получили известности в США и Европе. Всего в мире было продано более 7,5 миллиона экземпляров MSX-совместимых компьютеров, из них 5 млн — в Японии. До появления и последующего большого успеха игровой консоли Famicom от Nintendo компьютеры MSX были основной домашней платформой для наиболее известных японских компаний — разработчиков видеоигр, таких как Konami и Hudson Soft. Такие игровые серии, как Metal Gear, Bomberman и Valis начались с игр, впервые вышедших на компьютерах MSX.</systemDescription>
       <systemManufacturer>Microsoft</systemManufacturer>
       <systemReleaseYear>1983</systemReleaseYear>
-      <systemReleaseDate>27.06.1983г.</systemReleaseDate>
-      <systemReleaseDateFormated>27 июня 1983г.</systemReleaseDateFormated>
+      <systemReleaseDate>1983-16-27</systemReleaseDate>
+      <systemReleaseDateFormated>June 27, 1983</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>30A8EB</systemColor>
       <systemColorPalette1>EAD598</systemColorPalette1>
       <systemColorPalette2>212324</systemColorPalette2>
       <systemColorPalette3>656266</systemColorPalette3>
       <systemColorPalette4>DEE0E0</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

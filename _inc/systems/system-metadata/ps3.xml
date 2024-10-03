@@ -1,17 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>The PlayStation 3 (PS3) is a home video game console developed by Sony Computer Entertainment. It is the successor to PlayStation 2, and is part of the PlayStation brand of consoles. It was first released on November 11, 2006 in Japan, November 17, 2006 in North America, and March 23, 2007 in Europe and Australia. The PlayStation 3 competed primarily against Microsoft's Xbox 360 and Nintendo's Wii as part of the seventh generation of video game consoles.
+      <systemName>PlayStation 3</systemName>
+      <systemDescription>PlayStation 3 (сокр. PS3) — игровая приставка седьмого поколения, третья основная в семействе игровых систем PlayStation (не считая PlayStation Portable и PocketStation). С помощью PS3 можно играть, просматривать фото, смотреть фильмы, слушать музыку, отправлять электронную почту и просматривать веб-страницы. С самого момента выпуска приставкой поддерживается большинство игр для консолей 7-го поколения, PlayStation и PlayStation 2. Главными конкурентами консоли являются Xbox 360 от Microsoft и Wii от Nintendo.
 
-The console was first officially announced at E3 2005, and was released at the end of 2006. It was the first console to use Blu-ray Disc as its primary storage medium. The console was the first PlayStation to integrate social gaming services, including the PlayStation Network, as well as the first to be controllable from a handheld console, through its remote connectivity with PlayStation Portable and PlayStation Vita. In September 2009, the Slim model of the PlayStation 3 was released. It no longer provided the hardware ability to run PS2 games. It was lighter and thinner than the original version, and featured a redesigned logo and marketing design, as well as a minor start-up change in software. A Super Slim variation was then released in late 2012, further refining and redesigning the console.</systemDescription>
+      К сентябрю 2012 года по всему миру было продано 66,1 млн приставок PlayStation 3. К ноябрю 2012 года было продано более 70 млн экземпляров консоли по всему миру. К январю 2013 года было продано более 77 млн экземпляров консоли по всему миру. Количество игр, доступных для консоли, превысило 3590 штук, а общий тираж проданных игр — 595 млн копий. В ноябре 2013 года компания заявила, что общее количество проданных консолей достигло отметки в 80 млн, а портфель игр составил 4332 штуки (в их число не входят игры, которые доступны только в PSN). На апрель 2015 года Sony реализовала 87 млн экземпляров PlayStation 3 в различных модификациях — оригинальной FAT, Slim и Super Slim. Производство PS3 было прекращено 29 мая 2017 года.</systemDescription>
       <systemManufacturer>Sony</systemManufacturer>
       <systemReleaseYear>2006</systemReleaseYear>
       <systemReleaseDate>2006-11-11</systemReleaseDate>
       <systemReleaseDateFormated>November 11, 2006</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>135-172</systemCoverSize>
       <systemColor>367EDB</systemColor>
       <systemColorPalette1>94B8F2</systemColorPalette1>
       <systemColorPalette2>1A15FF</systemColorPalette2>
       <systemColorPalette3>0095D5</systemColorPalette3>
       <systemColorPalette4>3DD3C8</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

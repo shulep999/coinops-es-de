@@ -1,15 +1,17 @@
 <theme>
    <variables>
-    <systemDescription>Neo Geo CD — вторая домашняя игровая консоль семейства Neo Geo корпорации SNK , выпущенная 9 сентября 1994 года, через четыре года после своего картриджного аналога . Это та же платформа, преобразованная в более дешевый формат CD, продающаяся по цене$49–79 за игру, по сравнению с картриджами по $300 . [1] Первоначально система стоила $399 , [2] или £399 . Система также может воспроизводить аудио-CD . Все три версии системы не имеют региональной блокировки , но они распознают регион, и некоторые игры будут отображать английский или японский язык в зависимости от региональных настроек консоли. Neo Geo CD был выпущен с комплектным пультом управления вместо джойстика, как в версии AES . Новый джойстик был выпущен вместе с Neo Geo CD, и система была совместима с контроллерами от AES. Neo Geo CD имел ограниченный успех из-за медленной загрузки, время между загрузками могло варьироваться от 30 до 60 секунд в зависимости от игры. По состоянию на март 1997 года по всему миру было продано 570 000 единиц Neo Geo CD.</systemDescription>
+      <systemName>Neo Geo CD</systemName>
+      <systemDescription>Neo Geo CD (японский: ネオジオCD, хепберн: Neo Jio Shī Dī) - вторая домашняя игровая консоль семейства Neo Geo от SNK Corporation, выпущенная 9 сентября 1994 года, через четыре года после своего картриджного аналога. Это та же платформа, но переведенная в более дешевый формат CD, который продается в розницу по цене от $49 до $79 за игру, по сравнению с картриджами за $300. Первоначальная цена системы составляла 399 долларов США, или 399 £ в Великобритании. Привод 1× CD-ROM работает медленно и очень долго загружается. Система также может воспроизводить Audio CD. Все три версии системы не имеют региональной блокировки. В комплект поставки Neo Geo CD входила панель управления, а не джойстик, как в версии AES. Однако оригинальный джойстик AES можно использовать со всеми тремя моделями Neo Geo CD.</systemDescription>
       <systemManufacturer>SNK</systemManufacturer>
       <systemReleaseYear>1994</systemReleaseYear>
-      <systemReleaseDate>09.09.1994г.</systemReleaseDate>
-      <systemReleaseDateFormated>9 сентября 1994г.</systemReleaseDateFormated>
+      <systemReleaseDate>1994-09-09</systemReleaseDate>
+      <systemReleaseDateFormated>September 9, 1994</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>AD90E2</systemColor>
       <systemColorPalette1>878880</systemColorPalette1>
       <systemColorPalette2>FFD400</systemColorPalette2>
       <systemColorPalette3>0088CD</systemColorPalette3>
       <systemColorPalette4>24241E</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

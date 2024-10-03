@@ -1,15 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>Script Creation Utility for Maniac Mansion Virtual Machine (ScummVM) is a set of game engine recreations. Originally designed to play LucasArts adventure games that use the SCUMM system, it also supports a variety of non-SCUMM games by companies like Revolution Software and Adventure Soft. It was originally written by Ludvig Strigeus. Released under the terms of the GNU General Public License, ScummVM is free software. ScummVM is a reimplementation of the part of the software used to interpret the scripting languages such games used to describe the game world rather than emulating the hardware the games ran on; as such, ScummVM allows the games it supports to be played on platforms other than those for which they were originally released.</systemDescription>
+      <systemName>ScummVM</systemName>
+      <systemDescription>ScummVM — собрание созданных заново (независимо от разработчиков оригиналов) игровых движков, изначально разработанное для запуска игр фирмы LucasArts, использующие систему SCUMM (VM в названии обозначает виртуальная машина, англ. virtual machine). Благодаря продуманной архитектуре ScummVM также поддерживает множество не-SCUMM-игр таких компаний, как Revolution Software и Adventure Soft, для которых разработаны собственные интерфейсы взаимодействия с ресурсами (так называемые движки, англ. engines).
+
+      ScummVM — это независимо написанная альтернатива части кода игровых программ, занимающаяся интерпретацией используемых для описания игрового мира скриптовых языков в таких играх, вместо того, чтобы эмулировать аппаратуру машины, на которой запускались игры. В таком качестве ScummVM позволяет играм, которые поддерживаются, запускаться на платформах, отличающихся от тех, под которые они были изначально разработаны. Кроме того, переписывание движка игр даёт возможность исправить некоторые баги, присутствующие в оригинальном движке, а также добавить новые возможности (например, улучшенный саундтрек для игр Beneath a Steel Sky, Simon the Sorcerer и некоторых других).</systemDescription>
       <systemManufacturer>ScummVM</systemManufacturer>
       <systemReleaseYear>2001</systemReleaseYear>
       <systemReleaseDate>2001-10-05</systemReleaseDate>
       <systemReleaseDateFormated>October 5, 2001</systemReleaseDateFormated>
       <systemHardwareType>Engine</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>4DBD51</systemColor>
       <systemColorPalette1>FFEB32</systemColorPalette1>
       <systemColorPalette2>F17C38</systemColorPalette2>
       <systemColorPalette3>EFEDE3</systemColorPalette3>
-      <systemColorPalette4>95C93E</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>
+      <systemColorPalette4>95C93E</systemColorPalette4>    </variables>
 </theme>

@@ -1,19 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Casio PV-1000 (ぴーぶいせん, Pi Bui-Sen) is a third-generation home video game console manufactured by Casio and released in Japan in 1983. It was discontinued less than a year after release.
-
-The PV-1000 was released in October 1983. It was only released in Japan where it sold for 14,800 yen. Casio failed to achieve a significant market share. According to retrogames.co.uk the console was pulled after several weeks; due to low sales.
-
-The PV-1000 is powered by a Zilog Z80 CPU, with 2 KB RAM, with 1 KB allocated as VRAM. It also has an additional 1 KB devoted to a character generator. Graphics were provided by a Texas Instruments TMS9918, generating a 256x192 pixel resolution with 8 colours. The console contains a NEC D65010G031 chip used to output video and sound. It had three square wave voices with 6 bits to control the period.</systemDescription>
-      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemName>PV-1000</systemName>
+      <systemDescription>PV-1000 (иногда также Casio PV-1000) — 8-битная игровая приставка, выпущенная японской компанией Casio в октябре 1983 года по цене 14 800 иен (139$). Приставка была выпущена на заре третьего поколения игровых систем, когда многие компании пробовали завоевать себе место на рынке видеоигр. Только в Японии в том же 1983 году появились Nichibutsu My Vision от компании Nichibutsu, Gakken Compact Vision от Gakken Co., Ltd., SG-1000 от Sega и Famicom от Nintendo. Спустя два месяца после выхода консоли Casio выпустила на её основе домашний компьютер PV-2000, не совместимый с ней. Успеха консоль не имела, рынок был быстро завоёван приставками от Sega и Nintendo, и уже через небольшой период времени продажи и выпуск игр к PV-1000 были прекращены. За недолгий срок существования PV-1000 к ней было выпущено около 15 игр, многие из которых были адаптациями игр Casio с компьютеров MSX.</systemDescription>
+      <systemManufacturer>Casio</systemManufacturer>
       <systemReleaseYear>1983</systemReleaseYear>
       <systemReleaseDate>1983-10-01</systemReleaseDate>
       <systemReleaseDateFormated>October 1, 1983</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>972F32</systemColor>
       <systemColorPalette1>2A4E78</systemColorPalette1>
       <systemColorPalette2>4FBBB2</systemColorPalette2>
       <systemColorPalette3>DCD9D1</systemColorPalette3>
       <systemColorPalette4>D13931</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

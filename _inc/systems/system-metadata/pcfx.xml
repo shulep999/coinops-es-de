@@ -1,17 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The PC-FX is a 32-bit home video game console developed by both NEC and Hudson Soft and released in Japan in 1994. Powered by an NEC V810 CPU and using CD-ROMs, the PC-FX was intended as the successor to the PC Engine and its international counterpart the TurboGrafx-16, two successful video game consoles from the late 1980s. It is NEC's final foray into the home console market.
-
-The console is shaped like a tower PC and was meant to be similarly upgradeable. However the PC-FX lacked a 3D polygon-based graphics chip which rendered the system underpowered in comparison to its competitors. It was also expensive and lacked developer support, and as a result it was unable to compete effectively with its fifth generation peers. The PC-FX was NEC's last home video game console, and was discontinued in February 1998. It was considered a commercial failure.</systemDescription>
+      <systemName>PC-FX</systemName>
+      <systemDescription>PC-FX — 32-разрядная игровая консоль, разработанная компанией NEC. Преемник предыдущей консоли от этой компании, PC Engine (известной в США под названием TurboGrafx 16). Выпущена в Японии 23 декабря 1994 года. PC-FX использовала для хранения игр только CD-диски, в отличие от PCE (TG16), игры для которой хранились на специальных картриджах HuCards (а также на CD, при наличии внешнего, или встроенного в некоторых моделях, CD-привода). Консоль имела необычный дизайн, более типичный для компьютера, чем для игровой консоли. Её корпус представлял собой вертикальную «башню», тогда как большинство консолей имеют плоскую горизонтальную форму. Геймпад внешне был похож на геймпад от Sega Mega Drive. Другая интересная особенность консоли — наличие трёх портов расширения. Обычно они редко используются на консолях, так как их наличие увеличивает цену, не представляя особой пользы для конечного пользователя.</systemDescription>
       <systemManufacturer>NEC</systemManufacturer>
       <systemReleaseYear>1994</systemReleaseYear>
       <systemReleaseDate>1994-12-23</systemReleaseDate>
       <systemReleaseDateFormated>December 23, 1994</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>9378DA</systemColor>
       <systemColorPalette1>FEC101</systemColorPalette1>
       <systemColorPalette2>01015B</systemColorPalette2>
       <systemColorPalette3>5C3073</systemColorPalette3>
       <systemColorPalette4>F00020</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

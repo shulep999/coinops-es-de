@@ -1,17 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>The Wii (known unofficially as the Nintendo Wii) is a home video game console released by Nintendo on November 19, 2006. As a seventh generation console, the Wii competed with Microsoft's Xbox 360 and Sony's PlayStation 3. Nintendo stated that its console targets a broader demographic than that of the two others.
+      <systemName>Wii</systemName>
+      <systemDescription>Wii — игровая приставка 7-го поколения, 5-я домашняя консоль фирмы Nintendo и наследница Nintendo GameCube. До 27 апреля 2006 года, когда было объявлено официальное название консоли, она носила кодовое имя Revolution. Как игровая система 7-го поколения, является прямым конкурентом Microsoft Xbox 360 и Sony PlayStation 3. Хотя компания Nintendo не позиционирует свою приставку Wii как соперника PlayStation 3 и Xbox 360, её причисляют к седьмому поколению по времени выхода (период между релизами Xbox 360 и PS3), а также инновационным игровым контроллерам. Nintendo утверждает, что её консоль ориентирована на более широкую аудиторию, чем у обоих конкурентов. Отличительной чертой консоли являются уникальные беспроводные контроллеры Wii Remote и Wii MotionPlus, реагирующие на движения игрока.
 
-As of the first quarter of 2016, the Wii led its generation over the PlayStation 3 and Xbox 360 in worldwide sales, with more than 101 million units sold; in December 2009, the console broke the sales record for a single month in the United States.</systemDescription>
+      27 января 2020 года Nintendo of Japan заявила, что с 31 марта Wii больше не будут ремонтироваться в связи с уменьшением запаса необходимых деталей. Однако из-за того, что количество заявок на ремонт превысило ожидания Nintendo, компании пришлось прекратить приём заявок на ремонт на месяц раньше, 6 февраля.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>2006</systemReleaseYear>
       <systemReleaseDate>2006-12-02</systemReleaseDate>
       <systemReleaseDateFormated>December 2, 2006</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>243-340</systemCoverSize>
       <systemColor>7ECBE8</systemColor>
       <systemColorPalette1>24A9E2</systemColorPalette1>
       <systemColorPalette2>D1D1D1</systemColorPalette2>
       <systemColorPalette3>005C9A</systemColorPalette3>
       <systemColorPalette4>1E1C1A</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

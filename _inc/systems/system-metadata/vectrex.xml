@@ -1,17 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>The Vectrex is a vector display-based home video game console–the only one ever designed and released for the home market, developed by Smith Engineering. It was first released for the North America market in November 1982 and then Europe and Japan in 1983. Originally manufactured by General Consumer Electronics, it was later licensed to Milton Bradley after they acquired the company. Bandai released the system in Japan.
+      <systemName>Vectrex</systemName>
+      <systemDescription>Vectrex — 8-разрядная игровая консоль, разработанная General Consumer Electric (GCE), позже купленная Milton Bradley Company. «Vectrex» уникальна тем, что это единственная игровая система, использующая векторный графический монитор; ни одна другая система ни до, ни после неё, не использовала подобную конфигурацию. «Vectrex» продавалась потребителям с 1982 года по цене в 199 долл.; продажи устройства прекратились в 1984, во время спада на рынке игровых консолей.
 
-The Vectrex, in contrast to other video-game systems available at the time, featured an integrated monochrome CRT monitor and did not need to be hooked up to a television set as it provided its own built-in display. A detachable wired control pad was mounted at, and could be folded into, the lower base of the console. Games included translucent color sheet overlays that could be placed over the monochrome screen. A number of peripherals were produced, such as a pair of 3D goggles known as the "3D Imager" and a "light-pen" that allowed the player to draw directly on the screen. A built-in game, Mine Storm, was playable without inserting a cartridge.</systemDescription>
-      <systemManufacturer>Smith Engineering</systemManufacturer>
+      В отличие от большинства других игровых консолей, подключаемых к бытовому телевизору для передачи растрового изображения (то есть игровых приставок), «Vectrex» имел свой встроенный монитор, изображающий векторную графику. Монитор был монохромным, но на экран накладывалась полупрозрачная раскрашенная плёнка, своя для каждой игры, что давало иллюзию цвета, а также уменьшало эффект от мерцания изображения, присущий векторным мониторам. </systemDescription>
+      <systemManufacturer>Smith Eng.</systemManufacturer>
       <systemReleaseYear>1982</systemReleaseYear>
       <systemReleaseDate>1982-11</systemReleaseDate>
       <systemReleaseDateFormated>November 1982</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>4D98D8</systemColor>
       <systemColorPalette1>EEF020</systemColorPalette1>
       <systemColorPalette2>EC1D25</systemColorPalette2>
       <systemColorPalette3>11192E</systemColorPalette3>
       <systemColorPalette4>166FC1</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

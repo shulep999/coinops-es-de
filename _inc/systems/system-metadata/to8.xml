@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Thomson TO8 is a home computer introduced by French company Thomson SA in 1986, with a cost of 2,990 FF. It replaces its predecessor, the Thomson TO7/70, while remaining essentially compatible.  The new features of the TO8, like larger memory (256KB) and better graphics modes (powered by the Thomson EF9369 graphics chip), are shared with the other third generation Thomson computers ( MO6 and TO9+).  The TO8 has a tape drive and Microsoft BASIC 1.0 (in standard and 512 KB versions)[9] on its internal ROM, and there is an optional external floppy drive. Graphics were provided by the Thomson EF9369 chip, allowing the display of 16 colors from a palette of 4096.  More than 120 games exist for the system.</systemDescription>
+      <systemName>Thomson TO8</systemName>
+      <systemDescription>Thomson TO8 - домашний компьютер, представленный французской компанией Thomson SA в 1986 году по цене 2 990 FF. Он пришел на смену своему предшественнику Thomson TO7/70, сохранив при этом свою основную совместимость.  Новые возможности TO8, такие как увеличенный объем памяти (256 КБ) и улучшенные графические режимы (на базе графического чипа Thomson EF9369), разделяются с другими компьютерами Thomson третьего поколения (MO6 и TO9+).  TO8 оснащен ленточным накопителем и Microsoft BASIC 1.0 (в стандартной и 512 КБ версиях) на внутреннем ПЗУ, а также опциональным внешним флоппи-дисководом. Графика обеспечивалась микросхемой Thomson EF9369, позволявшей отображать 16 цветов из палитры в 4096.  Для системы существует более 120 игр.</systemDescription>
       <systemManufacturer>Thomson SA</systemManufacturer>
       <systemReleaseYear>1986</systemReleaseYear>
       <systemReleaseDate>1986</systemReleaseDate>
       <systemReleaseDateFormated>1986</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>2C5299</systemColor>
       <systemColorPalette1>E6F0EF</systemColorPalette1>
       <systemColorPalette2>F0C73B</systemColorPalette2>
       <systemColorPalette3>4F8E5C</systemColorPalette3>
       <systemColorPalette4>2C2D2C</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

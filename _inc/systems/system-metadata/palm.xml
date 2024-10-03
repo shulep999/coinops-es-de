@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The PalmPilot Personal and PalmPilot Professional are the second generation of Palm PDA devices produced by Palm Inc (then a subsidiary of U.S. Robotics, later 3Com). These devices were launched on March 10, 1997</systemDescription>
+      <systemName>Palm</systemName>
+      <systemDescription>Palm — семейство карманных компьютеров и коммуникаторов, работающих под управлением операционной системы Palm OS, а также webOS. Производились компанией Palm Computing (подразделение U.S. Robotics, затем 3Com и после этого — Palm, Inc.), а также другими фирмами. В 2010 году, после покупки Palm компанией Hewlett Packard, устройства выпускались уже под маркой этого производителя. Первое поколение семейства, выпущенное в 1996 году, носило название Pilot. Из-за судебного процесса, связанного с торговой маркой Pilot Pen Corporation, второе поколение, выпущенное в 1997 году, уже носило имя PalmPilot. С 1998 года устройства стали известны просто как Palm, но, благодаря успеху Palm, название «PalmPilot» закрепилось в качестве синонима слова «PDA» (Personal Digital Assistant, PDA), вне зависимости от фирмы-изготовителя.</systemDescription>
       <systemManufacturer>Palm Inc</systemManufacturer>
       <systemReleaseYear>1997</systemReleaseYear>
       <systemReleaseDate>1997-03-10</systemReleaseDate>
       <systemReleaseDateFormated>March 10, 1997</systemReleaseDateFormated>
       <systemHardwareType>OS</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>324A42</systemColor>
       <systemColorPalette1>B2AFAC</systemColorPalette1>
       <systemColorPalette2>242443</systemColorPalette2>
       <systemColorPalette3>345A89</systemColorPalette3>
       <systemColorPalette4>363636</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

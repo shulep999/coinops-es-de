@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>Nintendo 64, также Ultra 64 и N64 — 64-разрядная игровая приставка. Разрабатывалась японской компанией Nintendo совместно с Silicon Graphics. Была выпущена в 1996 году (23 июня в Японии, 29 сентября в Америке) и в 1997 году (1 марта в Европе, Ближнем Востоке и Африке и Китае и 1 сентября во Франции и Бенилюксе) и стала ответом на приставки конкурентов Sony PlayStation и Sega Saturn. Тактовая частота центрального процессора — 93,75 МГц, графического — 62,5 МГц. Оснащалась общей унифицированной оперативной памятью объёмом 4 МБ. Максимальное разрешение равнялось 640×480 при 24-битной глубине цвета. Благодаря участию Silicon Graphics, в этой приставке появилась масса новшеств, связанных с трёхмерной графикой: сглаживание текстур, MIP-mapping и др. В качестве игрового носителя был выбран картридж объёмом до 64 МБ. Вместе с консолью Nintendo выпустила первый 3D-платформер Super Mario 64, который демонстрировал её новшества во всей красе. Это и дало начальный толчок. Однако, в первое время игр для Nintendo 64 было крайне мало: не всем давались особенности программирования для неё, кроме того, многих отпугивал устаревший формат носителя (оба основных конкурента тогда уже перешли на компакт-диски, которые имели большую ёмкость и были удобнее и дешевле). Сама же Nintendo не была готова к полному обеспечению своей консоли игровыми проектами. Но к 1998 году ситуация исправилась, и N64 заняла второе место на рынке игровых приставок после PlayStation (проект Saturn тогда уже можно было считать провалившимся). В материковом Китае вышла видоизмененная версия консоли под названием iQue Player. Эта версия выполнена в форм-факторе геймпада, чтобы обойти местный запрет на игровые консоли. Консоль имеет несколько встроенных игр, остальные пользователь мог загрузить самостоятельно через онлайн-сервис iQue Depot.</systemDescription>
+     <systemName>Nintendo 64</systemName>
+      <systemDescription>Названная так за свой 64-битный центральный процессор, Nintendo 64 была выпущена в июне 1996 года в Японии, в сентябре 1996 года в Северной Америке, в марте 1997 года в Европе и Австралии, в сентябре 1997 года во Франции и в декабре 1997 года в Бразилии. Являясь частью пятого поколения видеоигр, N64 конкурировала в первую очередь с PlayStation и Sega Saturn. На рынок Nintendo 64 вышла с тремя играми: Super Mario 64 и Pilotwings 64, выпущенные по всему миру, и Saikyo Habu Shogi, выпущенная только в Японии. Хотя в ноябре 2001 года N64 сменила GameCube на базе MiniDVD от Nintendo, консоли N64 оставались в продаже вплоть до снятия системы с производства в конце 2003 года.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1996</systemReleaseYear>
-      <systemReleaseDate>23.06.1996г.</systemReleaseDate>
-      <systemReleaseDateFormated>23 июня 1996г.</systemReleaseDateFormated>
+      <systemReleaseDate>1996-06-23</systemReleaseDate>
+      <systemReleaseDateFormated>June 23, 1996</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>4-3</systemCoverSize>
       <systemColor>19B65F</systemColor>
       <systemColorPalette1>143F9E</systemColorPalette1>
       <systemColorPalette2>00935C</systemColorPalette2>
       <systemColorPalette3>CA2E39</systemColorPalette3>
       <systemColorPalette4>E1C245</systemColorPalette4>
-   </variables>
+	  <systemCartSize>112-67</systemCartSize>    </variables>
 </theme>

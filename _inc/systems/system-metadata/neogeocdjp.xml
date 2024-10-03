@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Neo Geo CD (Japanese: ネオジオCD, Hepburn: Neo Jio Shī Dī) is the second home video game console of SNK Corporation's Neo Geo family, released in September 9, 1994, four years after its cartridge-based equivalent. This is the same platform, converted to the cheaper CD format retailing at $49 to $79 per title, compared to the $300 cartridges. The system was originally priced at US$399, or £399 in the UK. The unit's 1× CD-ROM drive is slow, with very long loading times. The system can also play Audio CDs. All three versions of the system have no region-lock. The Neo Geo CD was launched bundled with a control pad instead of a joystick like the AES version. However, the original AES joystick can be used with all three Neo Geo CD models.</systemDescription>
+      <systemName>Neo Geo CD</systemName>
+      <systemDescription>Neo Geo CD (японский: ネオジオCD, хепберн: Neo Jio Shī Dī) - вторая домашняя игровая консоль семейства Neo Geo от SNK Corporation, выпущенная 9 сентября 1994 года, через четыре года после своего картриджного аналога. Это та же платформа, но переведенная в более дешевый формат CD, который продается в розницу по цене от $49 до $79 за игру, по сравнению с картриджами за $300. Первоначальная цена системы составляла 399 долларов США, или 399 £ в Великобритании. Привод 1× CD-ROM работает медленно и очень долго загружается. Система также может воспроизводить Audio CD. Все три версии системы не имеют региональной блокировки. В комплект поставки Neo Geo CD входила панель управления, а не джойстик, как в версии AES. Однако оригинальный джойстик AES можно использовать со всеми тремя моделями Neo Geo CD.</systemDescription>
       <systemManufacturer>SNK</systemManufacturer>
       <systemReleaseYear>1994</systemReleaseYear>
       <systemReleaseDate>1994-09-09</systemReleaseDate>
       <systemReleaseDateFormated>September 9, 1994</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>AD90E2</systemColor>
       <systemColorPalette1>878880</systemColorPalette1>
       <systemColorPalette2>FFD400</systemColorPalette2>
       <systemColorPalette3>0088CD</systemColorPalette3>
       <systemColorPalette4>24241E</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>
