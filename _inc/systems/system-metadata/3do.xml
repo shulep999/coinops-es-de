@@ -1,15 +1,17 @@
 <theme>
    <variables>
-     <systemDescription>3DO Interactive Multiplayer (или просто 3DO) — игровая приставка, выпускавшаяся в 1993—1996 годах компаниями Panasonic, Sanyo, Creative и Goldstar. Консоль производилась в соответствии с набором спецификаций, предложенных The 3DO Company, и изначально разработанных Дэйвом Нидлом и Робертом Дж. Микалом из New Technology Group. Идея создания консоли принадлежит предпринимателю Трипу Хоукинсу, который также является основателем EA Games.</systemDescription>
+      <systemName>3DO</systemName>
+      <systemDescription>3DO Interactive Multiplayer (часто называемая просто 3DO) - это игровая консоль, выпущенная компанией Panasonic в 1993 году. Дальнейшие версии консоли были выпущены в 1994 году компаниями Sanyo и Goldstar. Консоли производились в соответствии со спецификациями, созданными компанией The 3DO Company, и были первоначально разработаны Дэйвом Нидлом и Р. Дж. Микалом из New Technology Group. Система была задумана предпринимателем и основателем Electronic Arts Трипом Хокинсом.</systemDescription>
       <systemManufacturer>Panasonic</systemManufacturer>
       <systemReleaseYear>1993</systemReleaseYear>
-      <systemReleaseDate>04.10.1993г.</systemReleaseDate>
-      <systemReleaseDateFormated>4 октября 1993 г.</systemReleaseDateFormated>
+      <systemReleaseDate>1993-10-04</systemReleaseDate>
+      <systemReleaseDateFormated>October 4, 1993</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>752-1440</systemCoverSize>
       <systemColor>CFA83E</systemColor>
       <systemColorPalette1>FF0000</systemColorPalette1>
       <systemColorPalette2>0000A0</systemColorPalette2>
       <systemColorPalette3>FFE41B</systemColorPalette3>
       <systemColorPalette4>23B14D</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

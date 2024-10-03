@@ -1,15 +1,18 @@
 <theme>
    <variables>
-      <systemDescription>The Video Technology CreatiVision is a hybrid computer and home video game console introduced by VTech in 1981 and released in 1982 during the Second generation of video game consoles. It was built by the Finnish company Salora. It cost $295 Australian Dollars. The hybrid unit was similar in concept to computers such as the APF Imagination Machine, the older VideoBrain Family Computer, and to a lesser extent the Intellivision game console and Coleco Adam computer, all of which anticipated the trend of video game consoles becoming more like low-end computers. It was discontinue in 1986.</systemDescription>
+      <systemName>CreatiVision</systemName>
+      <systemDescription>Video Technology CreatiVision - это гибрид компьютера и домашней игровой консоли, представленный компанией VTech в 1981 году и выпущенный в 1982 году в рамках второго поколения игровых консолей. Она была создана финской компанией Salora. Ее стоимость составляла 295 австралийских долларов. Гибридное устройство было похоже по концепции на такие компьютеры, как APF Imagination Machine, более старый VideoBrain Family Computer, и в меньшей степени на игровую приставку Intellivision и компьютер Coleco Adam, которые предвосхитили тенденцию превращения игровых приставок в компьютеры низкого класса. Она была снята с производства в 1986 году.</systemDescription>
       <systemManufacturer>VTech</systemManufacturer>
       <systemReleaseYear>1982</systemReleaseYear>
       <systemReleaseDate>1982</systemReleaseDate>
       <systemReleaseDateFormated>1982</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>D59234</systemColor>
       <systemColorPalette1>CCA656</systemColorPalette1>
       <systemColorPalette2>9F7C64</systemColorPalette2>
       <systemColorPalette3>E0CC75</systemColorPalette3>
       <systemColorPalette4>F09734</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>
+	     </variables>
 </theme>

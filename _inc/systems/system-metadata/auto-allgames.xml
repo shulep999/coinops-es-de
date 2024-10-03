@@ -1,10 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>View and play every single game across your entire library.</systemDescription>
+      <systemName>Все игры</systemName>
+      <systemDescription>Просмотр и воспроизведение каждой игры всей вашей библиотеки.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>
       <systemReleaseDateFormated>Various</systemReleaseDateFormated>
-      <systemHardwareType>Folder</systemHardwareType>
+      <systemHardwareType>All</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
+      <systemCartSize>1-1</systemCartSize>
+
+
    </variables>
+
+
 </theme>

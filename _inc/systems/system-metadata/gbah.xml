@@ -1,11 +1,11 @@
 <theme>
    <variables>
       <systemName>GBA Hacks</systemName>
-      <systemDescription>Game Boy Advance — 32-разрядная портативная игровая система компании Nintendo. Является «наследницей» Game Boy Color. Она была выпущена 21 марта 2001 года в Японии, 11 июня 2001 года в Северной Америке, 22 июня 2001 года в регионе PAL, и 8 июня 2004 года в материковом Китае под названием iQue Game Boy Advance. GBA относится к шестому поколению игровых систем. Оригинальная модель не имеет подсветки экрана; Nintendo решила эту проблему, выпустив в 2003 году обновлённую модель с экраном с фронтальной подсветкой, Game Boy Advance SP. В 2005 году была выпущена более новая модификация с экраном с задней подсветкой. Примерно в это же время, в сентябре 2005 года, была выпущена последняя модификация — Game Boy Micro.</systemDescription>
+      <systemDescription>Game Boy Advance (сокращенно GBA) - 32-битная портативная игровая консоль, разработанная, производимая и продаваемая компанией Nintendo как преемник Game Boy Color. Она была выпущена в Японии 21 марта 2001 года, в Северной Америке - 11 июня 2001 года, в Австралии и Европе - 22 июня 2001 года, а в центральном Китае - 8 июня 2004 года (iQue Player). Конкурентами Nintendo на рынке портативных консолей в то время были Neo Geo Pocket Color, WonderSwan, GP32, Tapwave Zodiac и N-Gage. Несмотря на все усилия конкурентов, Nintendo сохранила за собой большую долю рынка, выпустив Game Boy Advance. По состоянию на 30 июня 2010 года продажи серии Game Boy Advance составили 81,51 миллиона единиц по всему миру. Ее преемница, Nintendo DS, была выпущена в ноябре 2004 года и также совместима с программным обеспечением Game Boy Advance.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>2001</systemReleaseYear>
-      <systemReleaseDate>11.06.2001</systemReleaseDate>
-      <systemReleaseDateFormated>11 июня 2001 г.</systemReleaseDateFormated>
+      <systemReleaseDate>2001-06-11</systemReleaseDate>
+      <systemReleaseDateFormated>June 11, 2001</systemReleaseDateFormated>
       <systemHardwareType>Portable</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
       <systemColor>4C74D6</systemColor>

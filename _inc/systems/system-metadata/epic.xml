@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Epic Games Store is a digital video game storefront for Microsoft Windows and macOS, operated by Epic Games. It launched in December 2018 as both a website and a standalone launcher, of which the latter is required to download and play games. The storefront provides a basic catalog, friends list management, matchmaking, and other features. Epic Games has further plans to expand the feature set of the storefront but it does not plan to add as many features as other digital distribution platforms, such as discussion boards or user reviews, instead using existing social media platforms to support these.</systemDescription>
+      <systemName>Epic Games Store</systemName>
+      <systemDescription>Epic Games Store - цифровой магазин видеоигр для Microsoft Windows и macOS, управляемый компанией Epic Games. Он был запущен в декабре 2018 года как веб-сайт и автономная программа запуска, последняя из которых необходима для загрузки и игры. В магазине есть базовый каталог, управление списком друзей, матчмейкинг и другие функции. Epic Games планирует расширить набор функций магазина, но не планирует добавлять столько функций, как другие платформы цифровой дистрибуции, например, обсуждения или отзывы пользователей, вместо этого используя существующие платформы социальных сетей для их поддержки.</systemDescription>
       <systemManufacturer>Epic</systemManufacturer>
       <systemReleaseYear>2018</systemReleaseYear>
       <systemReleaseDate>2018-12</systemReleaseDate>
       <systemReleaseDateFormated>December 2018</systemReleaseDateFormated>
       <systemHardwareType>Folder</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>8BA7AE</systemColor>
       <systemColorPalette1>FFFFFF</systemColorPalette1>
       <systemColorPalette2>777777</systemColorPalette2>
       <systemColorPalette3>343434</systemColorPalette3>
       <systemColorPalette4>35C4EE</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

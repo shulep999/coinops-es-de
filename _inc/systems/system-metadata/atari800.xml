@@ -1,17 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>The Atari 8-bit family is a series of 8-bit home computers introduced by Atari, Inc. in 1979 as the Atari 400 and Atari 800 and manufactured until 1992. All of the machines in the family are technically similar and differ primarily in packaging. They are based on the MOS Technology 6502 CPU running at 1.79 MHz, and were the first home computers designed with custom coprocessor chips. This architecture enabled graphics and sound more advanced than contemporary machines, and gaming was a major draw. First-person space combat simulator Star Raiders is considered the platform's killer app. The systems launched with plug and play peripherals using the Atari SIO serial bus, an early analog of USB.
+      <systemName>Atari 800</systemName>
+      <systemDescription>Atari - семейство 8-битных компьютеров, представленная компанией Atari, Inc. в 1979 году под названиями Atari 400 и Atari 800 и выпускавшаяся до 1992 года. Все компьютеры семейства технически схожи и отличаются в основном комплектацией. В их основе лежит процессор MOS Technology 6502, работающий на частоте 1,79 МГц, и это были первые домашние компьютеры, созданные с использованием специализированных сопроцессорных микросхем. Такая архитектура позволила создать графику и звук, более совершенные, чем у предшественников, и игры стали одним из главных развлечений. Симулятор космических боев от первого лица Star Raiders считается «убийцей» платформы. Системы выпускались с подключаемыми периферийными устройствами, использующими последовательную шину Atari SIO, ранний аналог USB.
 
-The Atari 400 was initially almost half the cost of the Atari 800. Instead of the 800's full-sized keyboard, the 400 has a pressure-sensitive panel. The 800 has a second cartridge slot and a larger case allowing RAM upgrades to 48K. Both models were replaced by the XL series in 1983, then–after the company was sold and reestablished as Atari Corporation–the XE models in 1985. The XL and XE are lighter in construction while having Atari BASIC built-in and 2 joystick ports instead of 4. The 130XE increased the memory to 128 KB of bank-switched RAM.</systemDescription>
+      Изначально Atari 400 стоила почти в два раза дешевле Atari 800. Вместо полноразмерной клавиатуры 800-й модели 400-я оснащена чувствительной к нажатию панелью. У 800-й модели есть второй слот для картриджей и более крупный корпус, позволяющий увеличить объем оперативной памяти до 48 Кбайт. Обе модели были заменены серией XL в 1983 году, а затем - после того, как компания была продана и восстановлена как Atari Corporation - моделями XE в 1985 году. XL и XE имеют более легкую конструкцию, встроенный Atari BASIC и 2 порта для джойстиков вместо 4. В модели 130XE память увеличена до 128 КБ с переключением оперативной памяти.</systemDescription>
       <systemManufacturer>Atari</systemManufacturer>
       <systemReleaseYear>1979</systemReleaseYear>
       <systemReleaseDate>1979-11-01</systemReleaseDate>
       <systemReleaseDateFormated>November 1, 1979</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>CC9141</systemColor>
       <systemColorPalette1>B6B896</systemColorPalette1>
       <systemColorPalette2>EBD335</systemColorPalette2>
       <systemColorPalette3>5D3615</systemColorPalette3>
       <systemColorPalette4>BF9438</systemColorPalette4>
-   </variables>
+	  <systemCartSize>373-436</systemCartSize>    </variables>
 </theme>

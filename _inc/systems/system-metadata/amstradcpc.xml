@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>Amstrad CPC — линейка 8-разрядных домашних компьютеров, выпускавшихся фирмой Amstrad с 1984 по 1990 год. CPC в названии означало Colour Personal Computer — «цветной персональный компьютер», хотя можно было купить как модель с зелёным экраном (GT65/66), так и со стандартным цветным дисплеем (CTM640).Линейка CPC оказалась довольно удачной, за всю историю производства CPC было продано около 3 млн экземпляров.</systemDescription>
+      <systemName>Amstrad CPC</systemName>
+      <systemDescription>Amstrad Colour Personal Computer, более известный как Amstrad CPC, - серия 8-битных домашних компьютеров, разработанных компанией Amstrad. Первые модели были выпущены в апреле 1984 года в Европе по розничной цене от £199 до £299 в зависимости от комплектации. За пределами Европы компьютеры не выпускались. Серия CPC состояла из пяти отдельных моделей: CPC464, CPC664, CPC6128, 464plus и 6128plus. Компьютеры выпускались до неопределенного времени в 1990 году.</systemDescription>
       <systemManufacturer>Amstrad</systemManufacturer>
       <systemReleaseYear>1984</systemReleaseYear>
-      <systemReleaseDate>01.01.1984г.</systemReleaseDate>
-      <systemReleaseDateFormated>01 января 1984г.</systemReleaseDateFormated>
+      <systemReleaseDate>1984-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 1984</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>54819D</systemColor>
       <systemColorPalette1>E91C23</systemColorPalette1>
       <systemColorPalette2>00A651</systemColorPalette2>
       <systemColorPalette3>1C75BC</systemColorPalette3>
       <systemColorPalette4>3E3E3E</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

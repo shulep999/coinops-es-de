@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>Арка́да (англ. arcade game, arcade genre) — жанр компьютерных игр, характеризующийся коротким по времени, но интенсивным игровым процессом. В узком смысле аркадными называются игры для аркадных игровых автоматов. Игры, портированные с аркадных автоматов, также принято называть аркадными. Период с конца 1970-х до середины 1980-х был охарактеризован расцветом аркадных игр, и его часто называют золотым веком аркадных игр. Название «аркада» происходит от англ. arcade — пассаж, крытая галерея магазинов, где традиционно размещались аркадные игровые автоматы. В свою очередь, пассажи (крытые галереи) магазинов получили название arcade, так как первоначально они архитектурно выглядели как последовательности арок — аркады.</systemDescription>
+      <systemName>Arcade</systemName>
+      <systemDescription>Аркадный игровой автомат или монетоприемник - это развлекательный аппарат, работающий на монетах, обычно устанавливаемый в общественных заведениях, таких как рестораны, бары и залы развлечений. Большинство аркадных игр - это видеоигры, пинбольные автоматы, электромеханические игры, выкупные игры или мерчендайзеры. Несмотря на то, что точные даты проведения игр обсуждаются, золотой век аркадных видеоигр обычно определяется как период, начинающийся где-то в конце 1970-х и заканчивающийся где-то в середине 1980-х годов. За исключением кратковременного возрождения в начале 1990-х годов, впоследствии индустрия аркадных игр в Западном полушарии пришла в упадок, поскольку конкурирующие домашние игровые консоли, такие как Playstation и Xbox, увеличили свои графические и игровые возможности и снизили стоимость.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>
       <systemReleaseDateFormated>Various</systemReleaseDateFormated>
-      <systemHardwareType>Emulator</systemHardwareType>
+      <systemHardwareType>Collection</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>5B60B7</systemColor>
       <systemColorPalette1>FA6E0D</systemColorPalette1>
       <systemColorPalette2>FCCD0A</systemColorPalette2>
       <systemColorPalette3>032EC0</systemColorPalette3>
       <systemColorPalette4>459FD0</systemColorPalette4>
-   </variables>
+      <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

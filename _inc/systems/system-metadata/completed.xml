@@ -1,10 +1,13 @@
 <theme>
    <variables>
-      <systemDescription>View all of your completed games.</systemDescription>
+      <systemName>Пройдено</systemName>
+      <systemDescription>Учёт пройденных игр.</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>
       <systemReleaseDateFormated>Various</systemReleaseDateFormated>
       <systemHardwareType>Collection</systemHardwareType>
-   </variables>
+      <systemColor>222222</systemColor>
+      <systemCoverSize>1-1</systemCoverSize>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

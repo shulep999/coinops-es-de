@@ -1,17 +1,21 @@
 <theme>
    <variables>
-      <systemDescription>The Sega CD, released as the Mega-CD in most regions outside North America and Brazil, is a CD-ROM accessory for the Mega Drive/Genesis designed and produced by Sega as part of the fourth generation of video game consoles. It was released on December 12, 1991 in Japan, October 15, 1992 in North America, and April 2, 1993 in Europe. The Sega CD plays CD-based games and adds hardware functionality such as a faster central processing unit and graphic enhancements like sprite scaling and rotation. It can also play audio CDs and CD+G discs.
+      <systemName>Mega-CD</systemName>
+      <systemDescription>Sega Mega-CD (яп. メガCD Мэга Си: Ди:) — дополнение к игровой приставке Sega Mega Drive от компании Sega, выпущенное в рамках четвёртого поколения игровых систем. В Северной Америке система носила название Sega CD. Она была выпущена в Японии 12 декабря 1991 года, в Северной Америке — 15 октября 1992 года и в Европе — 2 апреля 1993 года. Устройство улучшало возможности Mega Drive и добавляло возможность проигрывать игры, записанные на компакт-диске, слушать аудиодиски и запускать диски формата CD+G.
 
-The main benefit of CD technology was greater storage, which allowed for games to be nearly 320 times larger than Genesis cartridges. This benefit manifested as full motion video (FMV) games such as the controversial Night Trap, which became a focus of the 1993 congressional hearings on issues of video game violence and ratings. Sega of Japan partnered with JVC to design the Sega CD and refused to consult with Sega of America until the project was complete. Sega of America assembled parts from various "dummy" units to obtain a working prototype. It was redesigned several times by Sega and licensed third-party developers.</systemDescription>
+      Основным преимуществом использования технологии компакт-дисков стало увеличение объёма, доступного для хранения данных, что позволило играм увеличиться в размерах почти в 320 раз по сравнению с картриджами для Mega Drive. Это преимущество привело к тому, что для приставки выпускались full motion video игры, такие как Night Trap, которая вызвала разногласия вокруг неё и стала предметом слушаний в Конгрессе по вопросам насилия в видеоиграх. Компания Sega разработала приставку в партнёрстве с JVC и отказывалась консультироваться со своим американским подразделением до завершения проекта. Американскому подразделению пришлось собрать свои экземпляры из различных компонентов для того, чтобы получить рабочий прототип. Приставка неоднократно перепроектировалась и переиздавалась компанией Sega и лицензированными сторонними разработчиками.
+
+      Библиотека игр Sega CD включала как известные и хорошо принятые игры, такие как Sonic CD, Lunar: The Silver Star, Lunar: Eternal Blue, Popful Mail и Snatcher, так и множество портов с Genesis и плохо принятых критикой FMV-игр. К марту 1996 года было продано 2,24 миллиона единиц Sega CD, после чего Sega сняла систему с производства, чтобы сосредоточиться на разработке Sega Saturn. Ретроспективные мнения о системе были неоднозначны, обозреватели хвалили некоторые игры и функционал, но также и критиковали её за недостаток глубоких игр, высокую цену и отсутствие поддержки со стороны Sega.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1991</systemReleaseYear>
       <systemReleaseDate>1991-12-12</systemReleaseDate>
       <systemReleaseDateFormated>December 12, 1991</systemReleaseDateFormated>
       <systemHardwareType>Peripheral</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>0C7BCB</systemColor>
       <systemColorPalette1>5A97D0</systemColorPalette1>
       <systemColorPalette2>1D46A5</systemColorPalette2>
       <systemColorPalette3>DEAD2C</systemColorPalette3>
       <systemColorPalette4>732A46</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

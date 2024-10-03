@@ -1,11 +1,13 @@
 <theme>
    <variables>
       <systemName>Sega Genesis</systemName>
-      <systemDescription>Sega Genesis - игровая приставка четвёртого поколения, разработанная и выпускавшаяся компанией Sega. Приставка была выпущена в 1988 году в Японии как Mega Drive, в 1989 году в США как Genesis и в 1990 году в Европе (Virgin Mastertronic), Австралии (Ozisoft) и Бразилии (Tectoy) — вновь под названием Mega Drive. Причиной изменения названия при запуске приставки на рынке США явилась невозможность официальной регистрации торговой марки Mega Drive. Sega Mega Drive — это третья аппаратная платформа от Sega после Sega Master System. В Южной Корее распространением приставки занималась компания Samsung; приставка имела название Super Gam*Boy, позднее изменённое на Super Aladdin Boy.</systemDescription>
+      <systemDescription>Sega Mega Drive (яп. メガドライブ Мэга Дорайбу), в Северной Америке известна как Sega Genesis — игровая приставка четвёртого поколения, разработанная и выпускавшаяся компанией Sega. Приставка была выпущена в 1988 году в Японии как Mega Drive, в 1989 году в США как Genesis и в 1990 году в Европе (Virgin Mastertronic), Австралии (Ozisoft) и Бразилии (Tectoy) — вновь под названием Mega Drive. Причиной изменения названия при запуске приставки на рынке США явилась невозможность официальной регистрации торговой марки Mega Drive. Sega Mega Drive — это третья аппаратная платформа от Sega после Sega Master System. В Южной Корее распространением приставки занималась компания Samsung; приставка имела название Super Gam*Boy, позднее изменённое на Super Aladdin Boy.
+
+      К концу 1994 года, когда начали выпускаться 32-битные системы, продажи Genesis по всему миру составляли 29 млн экземпляров, а к концу жизненного цикла приставки это число увеличилось до приблизительно 40 млн. Приставка и игры для неё продолжают оставаться популярными в среде фанатов, коллекционеров, любителей игровой музыки, ретрогеймеров, пользователей эмуляторов, а также среди сообщества любителей фанатского перевода. Также в настоящее время сторонними компаниями производятся реплики консоли, а также существует сообщество homebrew-разработчиков, разрабатывающих новые игры для этой системы. Множество игр из библиотеки игр Mega Drive были переизданы или портированы на другие платформы и доступны для загрузки через такие интернет-сервисы, как Wii Virtual Console, Xbox Live Arcade, PlayStation Network и Steam.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1989</systemReleaseYear>
-      <systemReleaseDate>14.08.1989 г.</systemReleaseDate>
-      <systemReleaseDateFormated>14 августа 1989 г.</systemReleaseDateFormated>
+      <systemReleaseDate>1989-08-14</systemReleaseDate>
+      <systemReleaseDateFormated>August 14, 1989</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
       <systemCoverSize>243-340</systemCoverSize>
       <systemColor>B52D2E</systemColor>

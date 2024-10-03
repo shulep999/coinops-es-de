@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Mattel Intellivision is a second generation (1976–1992) home video game console developed and distributed by Mattel Electronics. It was released in summer 1979 in North America at a retail price of $299. The console was later released in Europe (1981), South America (1982), and Japan (1982). The Intellivision was the first home console to use a tile based playfield and was the first game console to provide real-time human voices in the middle of gameplay, courtesy of the IntelliVoice module. The console was discontinued in early-1990.</systemDescription>
+      <systemName>Intellivision</systemName>
+      <systemDescription>Intellivision — игровая приставка, выпущенная на рынок компанией Mattel в 1979 году. Разработка консоли началась в 1978 году, менее чем через год после выхода её основного конкурента — Atari 2600. Название «Intellivision» составлено из слов «intelligent television» — «интеллектуальное телевидение». Создание Intellivision началось, как и в случае с многими другими игровыми приставками 80-х годов, под влиянием высоких продаж Atari VCS. Сбросить короля с трона компания Mattel намеревалась при помощи достаточно продвинутой по тем временам графики, неплохих игр (по большей части спортивных) и главной «опции» — дополнительной клавиатуры, превращавшей детскую игрушку в полновесный домашний компьютер. Но этот амбициозный замысел вскоре после презентации пал жертвой игрового обвала 1983 года, в результате которого с рынка ушли такие гиганты, как Atari и Coleco. Их примеру последовала и Mattel, продав все права на свою приставку компании INTV, организованной бывшими сотрудниками Mattel. Последняя выпустила ещё одну модификацию приставки, назвав её Super Pro System, которую небезуспешно продавала вплоть до 1990 года, успев за это время, помимо всего прочего, выпустить для неё 35 новых игр.</systemDescription>
       <systemManufacturer>Mattel</systemManufacturer>
       <systemReleaseYear>1979</systemReleaseYear>
       <systemReleaseDate>1979-12-03</systemReleaseDate>
       <systemReleaseDateFormated>December 3, 1979</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>E67E17</systemColor>
       <systemColorPalette1>D4C1A0</systemColorPalette1>
       <systemColorPalette2>2B201D</systemColorPalette2>
       <systemColorPalette3>C81A7C</systemColorPalette3>
       <systemColorPalette4>C8D463</systemColorPalette4>
-   </variables>
+	  <systemCartSize>135-172</systemCartSize>    </variables>
 </theme>

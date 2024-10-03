@@ -1,0 +1,17 @@
+<theme>
+   <variables>
+      <systemName>Google Android</systemName>
+      <systemDescription>Android - это мобильная операционная система, основанная на модифицированной версии ядра Linux и другом программном обеспечении с открытым исходным кодом, предназначенная в первую очередь для мобильных устройств с сенсорным экраном, таких как смартфоны и планшеты. Android разрабатывается консорциумом разработчиков, известным как Open Handset Alliance, хотя ее наиболее распространенная версия в основном разрабатывается компанией Google. Система была представлена в ноябре 2007 года, а первое коммерческое устройство на базе Android, HTC Dream, было выпущено в сентябре 2008 года.</systemDescription>
+      <systemManufacturer>Google</systemManufacturer>
+      <systemReleaseYear>2008</systemReleaseYear>
+      <systemReleaseDate>2008-09-23</systemReleaseDate>
+      <systemReleaseDateFormated>September 23, 2008</systemReleaseDateFormated>
+      <systemHardwareType>OS</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
+      <systemColor>5A9035</systemColor>
+      <systemColorPalette1>4086F4</systemColorPalette1>
+      <systemColorPalette2>EB4132</systemColorPalette2>
+      <systemColorPalette3>FBBD00</systemColorPalette3>
+      <systemColorPalette4>31AA52</systemColorPalette4>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
+</theme>

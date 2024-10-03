@@ -1,17 +1,15 @@
 <theme>
    <variables>
-      <systemDescription>The Sega Genesis, known as the Mega Drive outside North America, is a 16-bit fourth-generation home video game console developed and sold by Sega. The Genesis is Sega's third console and the successor to the Master System. Sega released it as the Mega Drive in Japan in 1988, and later as the Genesis in North America in 1989. In 1990, it was distributed as the Mega Drive by Virgin Mastertronic in Europe, Ozisoft in Australasia, and Tec Toy in Brazil. In South Korea, it was distributed by Samsung as the Super GameBoy and later the Super Aladdin Boy.
+      <systemName>Mega Drive</systemName>
+      <systemDescription>Sega Mega Drive (яп. メガドライブ Мэга Дорайбу), в Северной Америке известна как Sega Genesis — игровая приставка четвёртого поколения, разработанная и выпускавшаяся компанией Sega. Приставка была выпущена в 1988 году в Японии как Mega Drive, в 1989 году в США как Genesis и в 1990 году в Европе (Virgin Mastertronic), Австралии (Ozisoft) и Бразилии (Tectoy) — вновь под названием Mega Drive. Причиной изменения названия при запуске приставки на рынке США явилась невозможность официальной регистрации торговой марки Mega Drive. Sega Mega Drive — это третья аппаратная платформа от Sega после Sega Master System. В Южной Корее распространением приставки занималась компания Samsung; приставка имела название Super Gam*Boy, позднее изменённое на Super Aladdin Boy.
 
-Designed by an R&amp;D team supervised by Hideki Sato and Masami Ishikawa, the Genesis was adapted from Sega's System 16 arcade board, centered on a Motorola 68000 processor as the CPU, a Zilog Z80 as a sound controller, and a video system supporting hardware sprites, tiles, and scrolling. It plays a library of more than 900 games created by Sega and a wide array of third-party publishers delivered on ROM-based cartridges. Several add-ons were released, including a Power Base Converter to play Master System games. It was released in several different versions, some created by third parties. Sega created two network services to support the Genesis: Sega Meganet and Sega Channel.</systemDescription>
+      К концу 1994 года, когда начали выпускаться 32-битные системы, продажи Genesis по всему миру составляли 29 млн экземпляров, а к концу жизненного цикла приставки это число увеличилось до приблизительно 40 млн. Приставка и игры для неё продолжают оставаться популярными в среде фанатов, коллекционеров, любителей игровой музыки, ретрогеймеров, пользователей эмуляторов, а также среди сообщества любителей фанатского перевода. Также в настоящее время сторонними компаниями производятся реплики консоли, а также существует сообщество homebrew-разработчиков, разрабатывающих новые игры для этой системы. Множество игр из библиотеки игр Mega Drive были переизданы или портированы на другие платформы и доступны для загрузки через такие интернет-сервисы, как Wii Virtual Console, Xbox Live Arcade, PlayStation Network и Steam.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1988</systemReleaseYear>
       <systemReleaseDate>1988-10-29</systemReleaseDate>
       <systemReleaseDateFormated>October 29, 1988</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>243-340</systemCoverSize>
       <systemColor>0C7BCB</systemColor>
-      <systemColorPalette1>81294D</systemColorPalette1>
-      <systemColorPalette2>E62229</systemColorPalette2>
-      <systemColorPalette3>3464AF</systemColorPalette3>
-      <systemColorPalette4>019B43</systemColorPalette4>
-   </variables>
+	  <systemCartSize>112-67</systemCartSize>    </variables>
 </theme>

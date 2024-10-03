@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>Doom is a 1993 first-person shooter (FPS) game developed by id Software for MS-DOS. Players assume the role of a space marine, popularly known as Doomguy, fighting their way through hordes of invading demons from hell. Id began developing Doom after the release of their previous FPS, Wolfenstein 3D (1992).</systemDescription>
+      <systemName>Doom</systemName>
+      <systemDescription>Doom — компьютерная игра в жанре шутера от первого лица, разработанная и выпущенная компанией id Software в 1993 году. Doom является одной из самых значительных и влиятельных компьютерных игр в истории индустрии; в частности, её популярность во многом определила дальнейшее развитие и распространение жанра шутеров от первого лица. Игроки берут на себя роль космического морского пехотинца, известного как Doomguy, и пробиваются сквозь орды вторгшихся демонов из ада. Id начала разработку Doom после выхода предыдущего FPS, Wolfenstein 3D (1992).</systemDescription>
       <systemManufacturer>id Software</systemManufacturer>
       <systemReleaseYear>1993</systemReleaseYear>
       <systemReleaseDate>1993-12-10</systemReleaseDate>
       <systemReleaseDateFormated>December 10, 1993</systemReleaseDateFormated>
       <systemHardwareType>Engine</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>A11321</systemColor>
       <systemColorPalette1>33709F</systemColorPalette1>
       <systemColorPalette2>DFDED1</systemColorPalette2>
       <systemColorPalette3>D37112</systemColorPalette3>
       <systemColorPalette4>A63417</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

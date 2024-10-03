@@ -1,19 +1,21 @@
 <theme>
    <variables>
-      <systemDescription>The Game &amp; Watch brand is a series of handheld electronic games developed, manufactured, released and marketed by Nintendo from 1980 to 1991. Created by game designer Gunpei Yokoi, the product derived its name from its featuring a single game as well as a clock on a LCD screen. The models from 1981 onwards featured an alarm in addition. It was the earliest Nintendo video game product to gain major success.
+      <systemName>Game &amp; Watch</systemName>
+      <systemDescription>The Game &amp; Watch (произносится гейм энд уотч) (с англ. — «игра и часы») — серия портативных электронных игр с ЖК-экраном. Серия была создана разработчиком игр Гумпэем Ёкои в компании Nintendo, игры выпускались с 1980 по 1991 год. Большинство устройств позволяло играть только в одну игру — это ограничение было вызвано использованием сегментированного ЖК-экрана. На многих играх находились кнопки «Игра A» и «Игра B», причём игра B обычно была просто более быстрой и сложной версией игры A. Скорость игры и скорость отклика тоже были ограничены скоростью изменения состояния индикатора. Также устройство включало в себя часы и будильник. Game &amp; Watch работали от батареек-«таблеток»; из серии LR4x/SR4x использовались батарейки минимальной высоты.
 
-The units are based on a 4-bit CPU, from the Sharp SM5xx family, that include a small ROM and RAM area and an LCD screen driver circuit, although, prior to its simulation in MAME, there was a misconception in that every unit used a custom ASIC instead of a proper microcontroller.
+      Устройство появилось благодаря тому, что Гумпэй Ёкои, путешествуя на поезде синкансэне, заметил скучающего бизнесмена, который пытался развлечь себя, нажимая на кнопки калькулятора. Ёкои тогда пришла в голову идея маленькой игровой машинки, которая может использоваться как часы и позволит скоротать время.
 
-The series sold a combined of 43.4 million units worldwide.</systemDescription>
+      В СССР под маркой «Электроника» выпускалась серия электронных игр, являвшихся по сути близкими клонами и вариациями серии Game &amp; Watch. Например, игры «Микки Маус», «Ну, погоди!», «Охота» повторяли Nintendo EG-26 Egg, «Тайны океана» — Nintendo OC-22 Octopus, «Весёлый повар» — Nintendo FP-24 Chef.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1980</systemReleaseYear>
       <systemReleaseDate>1980-04-28</systemReleaseDate>
       <systemReleaseDateFormated>April 28, 1980</systemReleaseDateFormated>
       <systemHardwareType>Portable</systemHardwareType>
+      <systemCoverSize>112-67</systemCoverSize>
       <systemColor>8DA6AD</systemColor>
       <systemColorPalette1>C4353D</systemColorPalette1>
       <systemColorPalette2>C2904A</systemColorPalette2>
       <systemColorPalette3>853641</systemColorPalette3>
       <systemColorPalette4>4C301C</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

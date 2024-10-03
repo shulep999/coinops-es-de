@@ -1,17 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Macintosh (mainly Mac since 1998) is a family of personal computers designed, manufactured, and sold by Apple Inc. (originally as Apple Computer, Inc.) since January 1984.
-
-The original Macintosh is the first successful mass-market all-in-one desktop personal computer to have featured a graphical user interface, built-in screen, and mouse. Apple sold the Macintosh alongside its popular Apple II, Apple IIGS, Apple III, and Apple Lisa families of computers until the other models were discontinued in the 1990s.</systemDescription>
+      <systemName>Macintosh</systemName>
+      <systemDescription>Macintosh или Mac — линейка персональных компьютеров производства корпорации Apple. Работают под управлением операционных систем семейства Mac OS, возможна также работа на ОС Windows NT, A/UX, NeXTSTEP, BeOS/Haiku, GNU/Linux и Rhapsody. Своё название получили от сорта яблок «Malus 'McIntosh'». Оригинальный Macintosh стал первым успешным массовым настольным персональным компьютером «всё в одном», оснащённым графическим интерфейсом, встроенным экраном и мышью. Apple продавала Macintosh наряду с популярными семействами компьютеров Apple II, Apple IIGS, Apple III и Apple Lisa, пока другие модели не были сняты с производства в 1990-х годах.</systemDescription>
       <systemManufacturer>Apple</systemManufacturer>
       <systemReleaseYear>1984</systemReleaseYear>
       <systemReleaseDate>1984-01</systemReleaseDate>
       <systemReleaseDateFormated>January 1984</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
-      <systemColor>83A9B0</systemColor>
+      <systemCoverSize>3-4</systemCoverSize>
+      <systemColor>1EAEDA</systemColor>
       <systemColorPalette1>76B845</systemColorPalette1>
       <systemColorPalette2>E19433</systemColorPalette2>
       <systemColorPalette3>009DDD</systemColorPalette3>
       <systemColorPalette4>C45152</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

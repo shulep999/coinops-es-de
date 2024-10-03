@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Amiga is a family of personal computers marketed by Commodore in the 1980s and 1990s. The first model was launched in 1985 as a high-end home computer and became popular for its graphical, audio and multi-tasking abilities. The Amiga provided a significant upgrade from 8-bit computers, such as the Commodore 64, and the platform quickly grew in popularity among computer enthusiasts. The best selling model, the Amiga 500, was introduced in 1987 and became the leading home computer of the late 1980s and early 1990s in much of Western Europe.</systemDescription>
+      <systemName>Amiga 1200</systemName>
+      <systemDescription>Amiga - семейство персональных компьютеров, выпущенных компанией Commodore в 1980-х и 1990-х годах. Первая модель была выпущена в 1985 году в качестве домашнего компьютера высокого класса и стала популярной благодаря своей графической, звуковой и многозадачной функциональности. Amiga представляла собой значительный шаг вперед по сравнению с 8-битными компьютерами, такими как Commodore 64, и платформа быстро завоевала популярность среди любителей компьютеров. Самая продаваемая модель, Amiga 500, была представлена в 1987 году и стала ведущим домашним компьютером конца 1980-х и начала 1990-х годов в большинстве стран Западной Европы.</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1985</systemReleaseYear>
       <systemReleaseDate>1985-07-23</systemReleaseDate>
       <systemReleaseDateFormated>July 23, 1985</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>2671C6</systemColor>
       <systemColorPalette1>192753</systemColorPalette1>
       <systemColorPalette2>5F87C0</systemColorPalette2>
       <systemColorPalette3>F3AD2D</systemColorPalette3>
       <systemColorPalette4>ED2224</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

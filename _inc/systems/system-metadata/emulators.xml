@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>Modify your Emulator settings and configurations</systemDescription>
+      <systemName>Эмуляторы</systemName>
+      <systemDescription>Изменение настроек и конфигураций эмулятора</systemDescription>
       <systemManufacturer>Various</systemManufacturer>
       <systemReleaseYear>Various</systemReleaseYear>
       <systemReleaseDate>Various</systemReleaseDate>
       <systemReleaseDateFormated>Various</systemReleaseDateFormated>
       <systemHardwareType>Folder</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>39B1DE</systemColor>
       <systemColorPalette1>F6DD08</systemColorPalette1>
       <systemColorPalette2>800000</systemColorPalette2>
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

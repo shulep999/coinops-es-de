@@ -1,15 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>Sega Game Gear — 8-битная портативная игровая система четвёртого поколения, выпущенная компанией Sega. Система поступила в продажу 6 октября 1990 года в Японии, в апреле 1991 года — в Северной Америке и Европе, и в 1992 году — в Австралии. Game Gear создавалась как прямой конкурент Game Boy от Nintendo, отличаясь цветным экраном с подсветкой и возможностью играть в условиях низкой освещенности. Несмотря на это, система имела несколько недостатков, включая высокое потребление энергии и относительно небольшую библиотеку игр, что не позволило ей обогнать своего основного конкурента по продажам. При разработке Game Gear было решено использовать аппаратную часть на основе Master System. Внутри Game Gear установлен 8-битный процессор Zilog Z80 с тактовой частотой 3,5 МГц, а также 8 КБ оперативной памяти и дополнительные 16 КБ видеопамяти. Питание Game Gear осуществляется от шести батареек типа АА, обеспечивающих от 3 до 5 часов работы. Система имеет дисплей диагональю 3,2 дюйма (81 мм), способный отображать до 32 цветов из палитры в 4096 цветов. Сходство с архитектурой Master System позволило проводить лёгкий перенос игр Master System на Game Gear. В ходе своего существования Game Gear получила ряд модификаций и аксессуаров, включая телевизионный тюнер и адаптер для игр от Master System. Для платформы было выпущено более 300 игр, включая порты с Master System. Хотя Game Gear продалась количеством более 11 миллионов устройств, со временем она получила смешанные отзывы и не смогла обойти Game Boy по уровню продаж и популярности. Sega прекратила производство Game Gear в 1997 году, но в 2000 году компания Majesco Entertainment выпустила по лицензии бюджетную версию системы. В 2020 году на 60-летие компании Sega было выпущено специальное издание Game Gear Micro и новая игра для системы — GG Aleste 3.</systemDescription>
+      <systemName>Game Gear</systemName>
+      <systemDescription>Game Gear - это 8-битная портативная игровая консоль четвертого поколения, выпущенная компанией Sega 6 октября 1990 года в Японии, в апреле 1991 года в Северной Америке и Европе и в 1992 году в Австралии. Game Gear в первую очередь конкурировала с Game Boy от Nintendo, Atari Lynx и TurboExpress от NEC. Она имеет общую аппаратную часть с Master System и может играть в игры Master System с помощью адаптера. Sega позиционировала Game Gear с полностью цветным экраном с подсветкой и альбомным форматом как технологически более совершенную портативную консоль, чем Game Boy.
+
+      Несмотря на то, что Game Gear была выпущена на рынок в спешке, уникальная библиотека игр и доступная цена обеспечили ей преимущество перед Atari Lynx и TurboExpress. Однако из-за короткого времени автономной работы, отсутствия оригинальных игр и слабой поддержки со стороны Sega, Game Gear не смогла превзойти Game Boy, продав к марту 1996 года 10,62 миллиона устройств. Game Gear была снята с производства 30 апреля 1997 года. В 2000 году компания Majesco Entertainment по лицензии Sega переиздала ее в качестве бюджетной системы.</systemDescription>
       <systemManufacturer>Sega</systemManufacturer>
       <systemReleaseYear>1990</systemReleaseYear>
-      <systemReleaseDate>06.10.1990г.</systemReleaseDate>
-      <systemReleaseDateFormated>6 октября 1990 г.</systemReleaseDateFormated>
+      <systemReleaseDate>1990-10-06</systemReleaseDate>
+      <systemReleaseDateFormated>October 6, 1990</systemReleaseDateFormated>
       <systemHardwareType>Portable</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>356FAF</systemColor>
       <systemColorPalette1>CCCBCB</systemColorPalette1>
       <systemColorPalette2>D41808</systemColorPalette2>
       <systemColorPalette3>008200</systemColorPalette3>
       <systemColorPalette4>0000FE</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

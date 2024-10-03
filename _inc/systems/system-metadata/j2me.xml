@@ -1,11 +1,12 @@
 <theme>
    <variables>
       <systemName>J2ME</systemName>
-      <systemDescription>Java Platform, Micro Edition (Java ME, ранее — Java 2 Micro Edition, J2ME) — подмножество платформы Java для устройств, ограниченных в ресурсах, например: сотовых телефонов, карманных персональных компьютеров, ресиверов цифрового телевидения, проигрывателей дисков Blu-ray. Java ME разработана под руководством Sun Microsystems и является заменой похожей технологии — PersonalJava[англ.]. Изначально спецификация разрабатывалась в рамках JCP (Java Community Process) как JSR 68. Позже её варианты развились в отдельные JSR. Sun предоставляет образец реализации (англ. reference implementation) спецификации, но до недавнего времени не предоставляла бесплатной реализации среды выполнения (англ. runtime environment) Java ME для мобильных устройств. 22 декабря 2006 исходный код Java ME был выпущен под лицензией GNU General Public License, проект получил название phoneME. Отличительными особенностями устройств с ограниченными ресурсами являются ограниченная вычислительная мощность, ограниченный объём памяти, малый размер дисплея, питание от портативной батареи, а также низкоскоростные и недостаточно надёжные коммуникационные возможности. Типичный мобильный телефон середины двухтысячных содержит внутри 32-разрядный RISC-процессор с тактовой частотой 150—250 МГц, имеет объём оперативной памяти около 1—2 Мб, цветной дисплей с разрешением 176×208/220 или 240×320 пикселей и имеет возможность соединения с Интернетом посредством GPRS или EDGE со скоростью до 474 кбит/с, или 3G. На J2ME было портировано множество игр, таких как: Gish, Assassin's Creed, The Sims, Asphalt, Bounce Tales.</systemDescription>
+      <systemDescription>Java Platform, Micro Edition (Java ME, ранее — Java 2 Micro Edition, J2ME) — подмножество платформы Java для устройств, ограниченных в ресурсах, например: сотовых телефонов, карманных персональных компьютеров, ресиверов цифрового телевидения, проигрывателей дисков Blu-ray.
+      Java ME разработана под руководством Sun Microsystems и является заменой похожей технологии — PersonalJava[англ.]. Изначально спецификация разрабатывалась в рамках JCP (Java Community Process) как JSR 68. Позже её варианты развились в отдельные JSR. Sun предоставляет образец реализации (англ. reference implementation) спецификации, но до недавнего времени не предоставляла бесплатной реализации среды выполнения (англ. runtime environment) Java ME для мобильных устройств. 22 декабря 2006 исходный код Java ME был выпущен под лицензией GNU General Public License, проект получил название phoneME.</systemDescription>
       <systemManufacturer>Oracle</systemManufacturer>
       <systemReleaseYear>1998</systemReleaseYear>
-      <systemReleaseDate>08.12.1998 г.</systemReleaseDate>
-      <systemReleaseDateFormated>08 декабря 1998 г.</systemReleaseDateFormated>
+      <systemReleaseDate>1998-12-08</systemReleaseDate>
+      <systemReleaseDateFormated>December 8, 1998</systemReleaseDateFormated>
       <systemHardwareType>OS</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
       <systemColor>F8981D</systemColor>

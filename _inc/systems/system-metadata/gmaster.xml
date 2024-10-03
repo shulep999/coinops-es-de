@@ -1,17 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>The Game Master is a handheld game console manufactured by Hartung, and designed to compete with the Nintendo Game Boy. In Germany, it was marketed by Hartung itself, while in the UK it was released as the Systema 2000 by the already well-established maker of cheap LCD games Systema. It was also sold a few under alternate names in France, including the Videojet Game Master as well as for a few released by Hartung as the Hartung Super Game and the Hartung Game Tronic. The Game Master has a 64x64 monochrome LCD screen.
+      <systemName>Game Master</systemName>
+      <systemDescription>Game Master - это портативная игровая приставка, произведенная компанией Hartung и призванная конкурировать с Nintendo Game Boy. В Германии ее продавала сама компания Hartung, а в Великобритании она была выпущена под названием Systema 2000 уже хорошо известным производителем дешевых ЖК-игр Systema. Во Франции она также продавалась под другими названиями, в том числе Videojet Game Master, а также несколько раз выпускалась компанией Hartung под названиями Hartung Super Game и Hartung Game Tronic. Game Master оснащен монохромным ЖК-экраном 64x64.
 
-The design was much like the Game Gear with a D-Pad and two action buttons, although another variation, the Game Plus, features a more Game Boy-like design which is backed by a company called Caterpillar and was sold by Delplay in France. The cartridges resemble those used by the Watara Supervision, with the card edge of the cartridge jutted out past the plastic of the cartridge. The Game Master utilizes a 40-pin cartridge port like the Supervision but is not compatible with Supervision games.</systemDescription>
+      Дизайн был очень схож с Game Gear: D-Pad и две кнопки управления, хотя в другой вариации, Game Plus, дизайн был более похож на Game Boy, и она была выпущена компанией Caterpillar и продавалась Delplay во Франции. Картриджи похожи на те, что использовались в Watara Supervision, с краем карты, выступающим за пластик картриджа. В Game Master используется 40-контактный порт для картриджей, как и в Supervision, однако с играми Supervision он не совместим.</systemDescription>
       <systemManufacturer>Hartung</systemManufacturer>
       <systemReleaseYear>1990</systemReleaseYear>
       <systemReleaseDate>1990</systemReleaseDate>
       <systemReleaseDateFormated>1990</systemReleaseDateFormated>
       <systemHardwareType>Portable</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>83A9B0</systemColor>
       <systemColorPalette1>F6DD08</systemColorPalette1>
       <systemColorPalette2>800000</systemColorPalette2>
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

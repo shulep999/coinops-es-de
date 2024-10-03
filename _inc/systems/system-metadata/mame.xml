@@ -1,15 +1,21 @@
 <theme>
    <variables>
-     <systemDescription>MAME — эмулятор, разработанный для воссоздания электронного оборудования аркадных автоматов в виде программного обеспечения с целью сохранения истории игр и предотвращения исчезновения старых игр. Название программы является акронимом для Multiple Arcade Machine Emulator — эмулятор множества аркадных машин. Первый публичный релиз MAME (версия 0.1), автором которого был Никола Салмориа, состоялся 5 февраля 1997 года. Эмулятор поддерживает 4266 уникальных игр и 8286 ром-сетов (каждая игра может иметь один или несколько клонов). Но не все игры, поддерживаемые MAME, на самом деле играбельны: в настоящий момент не работает 1188 образов игр, а ещё 45 — это образы BIOS. В настоящее время лидером проекта является Аарон Гилес. MAME портирована на множество самых разных платформ. Ныне не обновляемая версия для UNIX-подобных систем называется XMAME, версия для macOS — MacMAME, на основе библиотеки SDL — SDLMAME.</systemDescription>
+      <systemName>MAME</systemName>
+      <systemDescription>MAME — эмулятор, разработанный для воссоздания электронного оборудования аркадных автоматов в виде программного обеспечения с целью сохранения истории игр и предотвращения исчезновения старых игр. Название программы является акронимом для Multiple Arcade Machine Emulator — эмулятор множества аркадных машин.
+
+      Первый публичный релиз MAME (версия 0.1), автором которого был Никола Салмориа, состоялся 5 февраля 1997 года. Эмулятор поддерживает 4266 уникальных игр и 8286 ром-сетов (каждая игра может иметь один или несколько клонов). Но не все игры, поддерживаемые MAME, на самом деле играбельны: в настоящий момент не работает 1188 образов игр, а ещё 45 — это образы BIOS. В настоящее время лидером проекта является Аарон Гилес.
+
+      MAME портирована на множество самых разных платформ. Ныне не обновляемая версия для UNIX-подобных систем называется XMAME, версия для macOS — MacMAME, на основе библиотеки SDL — SDLMAME.</systemDescription>
       <systemManufacturer>MAME Team</systemManufacturer>
       <systemReleaseYear>1997</systemReleaseYear>
-      <systemReleaseDate>05.02.1997г.</systemReleaseDate>
-      <systemReleaseDateFormated>5 февраля 1997г.</systemReleaseDateFormated>
+      <systemReleaseDate>1997-02-05</systemReleaseDate>
+      <systemReleaseDateFormated>February 5, 1997</systemReleaseDateFormated>
       <systemHardwareType>Emulator</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>5B60B7</systemColor>
       <systemColorPalette1>00ADEF</systemColorPalette1>
       <systemColorPalette2>84849C</systemColorPalette2>
       <systemColorPalette3>231F20</systemColorPalette3>
       <systemColorPalette4>FFFFFF</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

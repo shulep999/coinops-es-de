@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Amiga CD32, styled "CD32" and code-named "Spellbound", is the first 32-bit home video game console released in western Europe, Australia, Canada and Brazil. It was first announced at the Science Museum in London on July 16, 1993, and was released in September of the same year. The CD32 uses CD-ROM media, and was developed by Commodore, creator of the Commodore Amiga computer. It was based on Commodore's Advanced Graphics Architecture chipset, and is of similar specification to the Amiga 1200 computer. Using third party devices, it is possible to upgrade the CD32 with keyboard, floppy drive, hard drive, RAM and mouse, turning it into the equivalent of an Amiga 1200 personal computer. A hardware MPEG decompression module for playing Video CD was also released. In the Christmas period following its launch, the CD32 accounted for 38% of all CD-ROM drive sales in the UK, exceeding sales of the Mega-CD; however, it was soon overshadowed by CD-ROM based games consoles from other companies, and was discontinued as Commodore went into bankruptcy.</systemDescription>
+      <systemName>Amiga CD32</systemName>
+      <systemDescription>Amiga CD32, стилизованная под CD32 и имеющая кодовое название «Spellbound», - первая 32-битная домашняя видеоигровая консоль, выпущенная в Западной Европе, Австралии, Канаде и Бразилии. Впервые она была анонсирована в Музее науки в Лондоне 16 июля 1993 года и выпущена в сентябре того же года. CD32 использует носитель CD-ROM и была разработана компанией Commodore, создателем компьютера Commodore Amiga. В основу положен чипсет Advanced Graphics Architecture от Commodore, и по техническим характеристикам он схож с компьютером Amiga 1200. Используя устройства сторонних производителей, можно дооснастить CD32 клавиатурой, флоппи-дисководом, жестким диском, оперативной памятью и мышью, превратив его в аналог персонального компьютера Amiga 1200. Также был выпущен модуль аппаратной MPEG-декомпрессии для воспроизведения Video CD. В рождественский период после выпуска CD32 доля продаж дисководов CD-ROM в Великобритании составила 38 %, превысив продажи Mega-CD; однако вскоре его затмили игровые приставки на базе CD-ROM других компаний, и производство было прекращено, так как Commodore обанкротилась.</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1993</systemReleaseYear>
       <systemReleaseDate>1993-09-17</systemReleaseDate>
       <systemReleaseDateFormated>September 17, 1993</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>DD4637</systemColor>
       <systemColorPalette1>FF5853</systemColorPalette1>
       <systemColorPalette2>47DEBA</systemColorPalette2>
       <systemColorPalette3>FFDF46</systemColorPalette3>
       <systemColorPalette4>4A9BE4</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

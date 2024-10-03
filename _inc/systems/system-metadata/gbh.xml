@@ -1,11 +1,13 @@
 <theme>
    <variables>
       <systemName>Game Boy Hacks</systemName>
-      <systemDescription>Game Boy — 8-битная портативная игровая система, разработанная и произведённая компанией Nintendo. Первая портативная система семейства Game Boy была впервые выпущена в Японии 21 апреля 1989 года. В конце того же года система была выпущена в Северной Америке, а в конце 1990 года — в Европе. С 1994 года также продавался в России через дилерские сети Dendy. Она была разработана той же командой, которая разработала серию портативных электронных игр Game & Watch и несколько игр для Nintendo Entertainment System: Сатору Окада, Гумпэй Ёкои и Nintendo Research & Development 1. Вторая портативная игровая система компании Nintendo, Game Boy, сочетает в себе черты Nintendo Entertainment System и Game & Watch. Система оснащена матричным экраном с регулируемой контрастностью, пятью кнопками (крестовина, две игровые кнопки, кнопки «START» и «SELECT»), одним динамиком с регулятором громкости и использует в качестве физического носителя для игр игровые картриджи. На момент запуска система продавалась либо отдельно, либо в комплекте с одной из нескольких игр, среди которых были Super Mario Land и Tetris. Также было разработано и выпущено несколько аксессуаров, таких как чехол для переноски, фотокамера и принтер.</systemDescription>
+      <systemDescription>Game Boy (яп. ゲームボーイ Гэ:му Бо:й) — 8-битная портативная игровая система, разработанная и произведённая компанией Nintendo. Первая портативная система семейства Game Boy была впервые выпущена в Японии 21 апреля 1989 года. В конце того же года система была выпущена в Северной Америке, а в конце 1990 года — в Европе. С 1994 года также продавался в России через дилерские сети Dendy. Она была разработана той же командой, которая разработала серию портативных электронных игр Game &amp; Watch и несколько игр для Nintendo Entertainment System: Сатору Окада, Гумпэй Ёкои и Nintendo Research &amp; Development 1.
+
+      В комплекте с приставкой изначально шла игра-головоломка Tetris. Несмотря на множество других, технологически более совершенных портативных консолей, появившихся за время существования Game Boy, она имела огромный успех. Game Boy и Game Boy Color вместе взятые были проданы по всему миру в количестве 118,69 миллиона штук. После выхода в США вся партия в один миллион экземпляров была продана в течение нескольких недель.</systemDescription>
       <systemManufacturer>Nintendo</systemManufacturer>
       <systemReleaseYear>1989</systemReleaseYear>
-      <systemReleaseDate>21.04.1989г.</systemReleaseDate>
-      <systemReleaseDateFormated>21 апреля 1989г.</systemReleaseDateFormated>
+      <systemReleaseDate>1989-04-21</systemReleaseDate>
+      <systemReleaseDateFormated>April 21, 1989</systemReleaseDateFormated>
       <systemHardwareType>Portable</systemHardwareType>
       <systemCoverSize>1-1</systemCoverSize>
       <systemColor>3E518A</systemColor>

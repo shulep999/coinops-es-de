@@ -1,17 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>Lutris is a free and open source game manager for Linux-based operating systems developed and maintained by Mathieu Comandon and the community, released under the GNU General Public License.
+      <systemName>Lutris</systemName>
+      <systemDescription>Lutris — менеджер видеоигр, с открытым исходным кодом, для операционных систем на базе Linux, разработан и поддерживается Матье Командоном и сообществом, размещен под лицензией GNU General Public License. Lutris обеспечивает установку игр «в один клик» на своем веб-сайте, а также интегрируется со Steam. Для облегчения запуска игр, Lutris применяет целый пакет дополнительных инструментов, таких как Wine и Proton, а также эмуляторов, которые можно запустить в приложении Lutris. Скрипты доступны для некоторых сложных для установки на Wine игр, таких как League of Legends. Игры, приобретенные в GOG и Humble Bundle, можно также добавлять в Lutris.
 
-Lutris began as a piece of software called Oblivion Launcher, which was created in 2009 by Mathieu Comandon. He wanted an easier way to manage his games running on Linux, especially the ones that ran using Wine. Lutris began development on Launchpad, with the repository being created on May 5th, 2009. The first public release, 0.1, was on November 29th, 2009.[8] In 2010, development moved to GitHub.</systemDescription>
-      <systemManufacturer>Mathieu Comandon</systemManufacturer>
+      Lutris был первоначально запущен Матье Командоном в конце 2009 года как «консервант для старых видеоигр». Он считает, что старые видеоигры являются частью истории и поэтому должны быть сохранены. Но недостаточно просто иметь файлы, необходимо создать среду, чтобы иметь возможность запускать и испытывать эти игры. Поскольку зачастую бывает сложно запустить старые игры непосредственно под более молодыми операционными системами, возникла необходимость создать для этого некую основу. Кроме того, необходимо убедиться, что эти игры будут работать и в будущем.</systemDescription>
+      <systemManufacturer>M. Comandon</systemManufacturer>
       <systemReleaseYear>2010</systemReleaseYear>
       <systemReleaseDate>2010-02-23</systemReleaseDate>
       <systemReleaseDateFormated>February 23, 2010</systemReleaseDateFormated>
-      <systemHardwareType>Folder</systemHardwareType>
+      <systemHardwareType>Engine</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>AA9D96</systemColor>
       <systemColorPalette1>FF9900</systemColorPalette1>
       <systemColorPalette2>704631</systemColorPalette2>
       <systemColorPalette3>222222</systemColorPalette3>
       <systemColorPalette4>FFB700</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

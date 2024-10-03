@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Atari XE Video Game System (Atari XEGS) is an industrial redesign of the Atari 65XE home computer and the final model in the Atari 8-bit family. It was released by Atari Corporation in 1987 and marketed as a home video game console alongside the Nintendo Entertainment System, Sega's Master System, and Atari's own Atari 7800. The XEGS is compatible with existing Atari 8-bit family hardware and software. Without keyboard, the system operates as a stand-alone game console. With the keyboard, it boots identically to the Atari XE computers. Atari packaged the XEGS as a basic set consisting of only the console and joystick, and as a deluxe set consisting of the console, keyboard, CX40 joystick, and XG-1 light gun.</systemDescription>
+      <systemName>Atari XE</systemName>
+      <systemDescription>Atari XE Video Game System (Atari XEGS) - модификация домашнего компьютера Atari 65XE и последняя модель семейства 8-битных компьютеров Atari. Она была выпущена корпорацией Atari в 1987 году и продавалась как домашняя игровая консоль наряду с Nintendo Entertainment System, Sega Master System и Atari 7800. XEGS совместима с существующим аппаратным и программным обеспечением семейства 8-битных Atari. Без клавиатуры система работает как автономная игровая консоль. С клавиатурой она загружается так же, как и компьютеры Atari XE. Atari выпускала XEGS в базовой комплектации, состоящей только из консоли и джойстика, и в делюкс-комплектации, состоящей из консоли, клавиатуры, джойстика CX40 и светового пистолета XG-1.</systemDescription>
       <systemManufacturer>Atari</systemManufacturer>
       <systemReleaseYear>1987</systemReleaseYear>
       <systemReleaseDate>1987</systemReleaseDate>
       <systemReleaseDateFormated>1987</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>2F7BC7</systemColor>
       <systemColorPalette1>E1D095</systemColorPalette1>
       <systemColorPalette2>ADC7EF</systemColorPalette2>
       <systemColorPalette3>8F8F91</systemColorPalette3>
       <systemColorPalette4>B9A9CE</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

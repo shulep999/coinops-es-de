@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>Android — операционная система для смартфонов, планшетов, электронных книг, цифровых проигрывателей, наручных часов, фитнес-браслетов, игровых приставок, ноутбуков, нетбуков, смартбуков, очков Google Glass, телевизоров, проекторов и других устройств (в 2015 году появилась поддержка автомобильных развлекательных систем и бытовых роботов).Изначально разрабатывалась компанией Android, Inc., которую затем приобрела Google. Основана на ядре Linux и собственной реализации виртуальной машины Java компании Google. Впоследствии Google инициировала создание альянса Open Handset Alliance (OHA), который занимается поддержкой и дальнейшим развитием платформы.Android позволяет запускать Java-приложения, управляющие устройством через разработанные Google библиотеки. Android Native Development Kit позволяет портировать библиотеки и компоненты приложений, написанные на языке программирования Си и других языках.В 86 % смартфонов, проданных во всём мире во втором квартале 2014 года, была установлена операционная система Android.На конференции разработчиков в мае 2017 года Google объявила, что за всю историю Android было активировано более 2 млрд Android-устройств.</systemDescription>
+      <systemName>Google Android</systemName>
+      <systemDescription>Android - это мобильная операционная система, основанная на модифицированной версии ядра Linux и другом программном обеспечении с открытым исходным кодом, предназначенная в первую очередь для мобильных устройств с сенсорным экраном, таких как смартфоны и планшеты. Android разрабатывается консорциумом разработчиков, известным как Open Handset Alliance, хотя ее наиболее распространенная версия в основном разрабатывается компанией Google. Система была представлена в ноябре 2007 года, а первое коммерческое устройство на базе Android, HTC Dream, было выпущено в сентябре 2008 года.</systemDescription>
       <systemManufacturer>Google</systemManufacturer>
       <systemReleaseYear>2008</systemReleaseYear>
-      <systemReleaseDate>23.09.2008г.</systemReleaseDate>
-      <systemReleaseDateFormated>23 сентября 2008г.</systemReleaseDateFormated>
+      <systemReleaseDate>2008-09-23</systemReleaseDate>
+      <systemReleaseDateFormated>September 23, 2008</systemReleaseDateFormated>
       <systemHardwareType>OS</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>5A9035</systemColor>
       <systemColorPalette1>4086F4</systemColorPalette1>
       <systemColorPalette2>EB4132</systemColorPalette2>
       <systemColorPalette3>FBBD00</systemColorPalette3>
       <systemColorPalette4>31AA52</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

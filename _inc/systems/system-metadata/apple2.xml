@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>In 1976, computer pioneers Steve Wozniak and Steve Jobs began selling their Apple I computer in kit form to computer stores. A month later, Wozniak was working on a design for an improved version, the Apple II. They demonstrated a prototype in December, and then introduced it to the public in April 1977. The Apple II started the boom in personal computer sales in the late 1970s, and pushed Apple into the lead among personal computer makers.</systemDescription>
+      <systemName>Apple II</systemName>
+      <systemDescription>В 1976 году компьютерные мастера Стив Возняк и Стив Джобс начали продавать свой компьютер Apple I в виде набора в компьютерных магазинах. Месяц спустя Возняк уже работал над дизайном улучшенной версии Apple II. В декабре они продемонстрировали прототип, а в апреле 1977 года представили его публике. Apple II положил начало буму продаж персональных компьютеров в конце 1970-х годов и вывел Apple в лидеры среди производителей персональных компьютеров.</systemDescription>
       <systemManufacturer>Apple</systemManufacturer>
       <systemReleaseYear>1977</systemReleaseYear>
       <systemReleaseDate>1977-06-01</systemReleaseDate>
       <systemReleaseDateFormated>June 1, 1977</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>26A9E1</systemColor>
       <systemColorPalette1>009DDC</systemColorPalette1>
       <systemColorPalette2>E03A3E</systemColorPalette2>
       <systemColorPalette3>FDB827</systemColorPalette3>
       <systemColorPalette4>61BB46</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Commodore 64 is an 8-bit home computer introduced in January 1982 by Commodore International. It is listed in the Guinness World Records as the highest-selling single computer model of all time, with independent estimates placing the number sold between 10 and 17 million units. Volume production started in early 1982, marketing in August for US$595 (equivalent to $1,461 in 2015). Preceded by the Commodore VIC-20 and Commodore PET, the C64 took its name from its 64 kilobytes (65,536 bytes) of RAM. It had superior sound and graphical specifications compared to other earlier systems such as the Apple II and Atari 800, with multi-color sprites and a more advanced sound processor.</systemDescription>
+      <systemName>Commodore 64</systemName>
+      <systemDescription>Commodore 64 - 8-битный домашний компьютер, представленный в январе 1982 года компанией Commodore International. Он занесен в Книгу рекордов Гиннесса как самая продаваемая модель компьютера всех времен и народов. По независимым оценкам, количество проданных компьютеров составляет от 10 до 17 миллионов штук. Серийное производство началось в начале 1982 года, в августе он поступил в продажу по цене 595 долларов США (эквивалентно 1461 доллару США в 2015 году). Предшественник Commodore VIC-20 и Commodore PET, C64 получил свое название от 64 килобайт (65 536 байт) оперативной памяти. По сравнению с другими ранними системами, такими как Apple II и Atari 800, C64 обладал лучшими звуковыми и графическими характеристиками: многоцветными спрайтами и более совершенным звуковым процессором.</systemDescription>
       <systemManufacturer>Commodore</systemManufacturer>
       <systemReleaseYear>1982</systemReleaseYear>
       <systemReleaseDate>1982-01-01</systemReleaseDate>
       <systemReleaseDateFormated>January 1, 1982</systemReleaseDateFormated>
       <systemHardwareType>Computer</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>0F5BAD</systemColor>
       <systemColorPalette1>BBAD93</systemColorPalette1>
       <systemColorPalette2>968971</systemColorPalette2>
       <systemColorPalette3>FD4120</systemColorPalette3>
       <systemColorPalette4>00A0C6</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

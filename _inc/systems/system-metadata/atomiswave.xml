@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>Atomiswave — это изготовленная на заказ аркадная системная плата и корпус от Sammy Corporation . Она основана на консоли Dreamcast от Sega , разделяя сходство с NAOMI , поскольку использует сменные игровые картриджи , а также съемный модуль для изменения схемы управления (включая два джойстика , два световых пистолета и рулевое колесо ), но в отличие от NAOMI, Atomiswave не отличается расширенной оперативной памятью по сравнению с Dreamcast. С уходом со сцены устаревшей системы Neo Geo MVS, SNK Playmore выбрала Atomiswave в качестве своей следующей системы для разработки игр. По контракту с Sammy , SNK Playmore согласилась разработать пять игр для системы Atomiswave. Metal Slug 6 была пятой игрой SNK Playmore для Atomiswave, после чего SNK перешла на аркадную плату Taito Type X 2. Sega прекратила техническую поддержку системы и ее игр 31 марта 2017 года. После ее прекращения библиотека Atomiswave получила домашние преобразования для Dreamcast.</systemDescription>
+      <systemName>Atomiswave</systemName>
+      <systemDescription>Atomiswave - это пользовательская плата и корпус для аркадной системы от Sammy Corporation. Она основана на системной плате NAOMI компании Sega (поэтому на ее загрузочном экране часто можно увидеть логотип Sega). В Atomiswave используются сменные игровые картриджи, а панель управления корпуса можно легко заменить на различные наборы элементов управления, включая два джойстика, два световых пистолета и руль. После выхода из эксплуатации устаревшей системы Neo Geo MVS компания SNK Playmore выбрала Atomiswave в качестве следующей системы для разработки игр. По контракту с Сэмми, SNK Playmore согласилась разработать пять игр для системы Atomiswave. Metal Slug 6 стала пятой игрой SNK Playmore для Atomiswave, после чего SNK перешла на аркадную плату Taito Type X2.</systemDescription>
       <systemManufacturer>Sammy</systemManufacturer>
       <systemReleaseYear>2003</systemReleaseYear>
-      <systemReleaseDate>01.01.2003г.</systemReleaseDate>
-      <systemReleaseDateFormated>01 января 2003г.</systemReleaseDateFormated>
+      <systemReleaseDate>2003-01-01</systemReleaseDate>
+      <systemReleaseDateFormated>January 1, 2003</systemReleaseDateFormated>
       <systemHardwareType>Arcade</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>37BD6E</systemColor>
       <systemColorPalette1>C11127</systemColorPalette1>
       <systemColorPalette2>FF6B00</systemColorPalette2>
       <systemColorPalette3>04EF94</systemColorPalette3>
       <systemColorPalette4>029205</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

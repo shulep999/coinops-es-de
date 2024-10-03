@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>Future Pinball ("FP") is a freeware 3D pinball editing and gaming application for Microsoft Windows. It is similar to Visual Pinball ("VP") and other modern pinball simulation applications. Just as with VP's partnership with Visual PinMAME, FP uses partner applications to emulate original pinball ROM code. In FP's case, the end results of ROM code are simulated by Better Arcade Mode ("BAM") and tools such as "Pinball Browser" and dot-matrix display software plugins. Core FP development was discontinued in 2010, but resumed in 2013 via BAM. BAM features many new developments, such as enhanced physics, optics, and virtual reality support.</systemDescription>
-      <systemManufacturer>Christopher Leathley</systemManufacturer>
+      <systemName>Future Pinball</systemName>
+      <systemDescription>Future Pinball («FP») - это бесплатное приложение для редактирования и воспроизведения 3D пинбола для Microsoft Windows. Оно похоже на Visual Pinball («VP») и другие современные приложения для моделирования пинбола. Как и в случае с VP и Visual PinMAME, FP использует партнерские приложения для эмуляции оригинального ROM-кода пинбола. В случае FP конечные результаты ROM-кода моделируются с помощью Better Arcade Mode («BAM») и таких инструментов, как «Pinball Browser» и плагины для матричных дисплеев. Разработка основной части FP была прекращена в 2010 году, но возобновилась в 2013 году с помощью BAM. В BAM реализовано множество новых разработок, таких как улучшенная физика, оптика и поддержка виртуальной реальности.</systemDescription>
+      <systemManufacturer>C. Leathley</systemManufacturer>
       <systemReleaseYear>2005</systemReleaseYear>
       <systemReleaseDate>2005-10-22</systemReleaseDate>
       <systemReleaseDateFormated>October 22, 2005</systemReleaseDateFormated>
       <systemHardwareType>Engine</systemHardwareType>
+      <systemCoverSize>1-1</systemCoverSize>
       <systemColor>3871C5</systemColor>
       <systemColorPalette1>F6DD08</systemColorPalette1>
       <systemColorPalette2>800000</systemColorPalette2>
       <systemColorPalette3>FF0000</systemColorPalette3>
       <systemColorPalette4>303030</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

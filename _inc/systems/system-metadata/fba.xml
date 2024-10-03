@@ -1,19 +1,19 @@
 <theme>
    <variables>
-      <systemDescription>This source-available project is based on FinalBurn, created by Dave in 2000. It has been programmed by a team composed of Barry Harris (Old username: TrebleWinner), Jan_Klaassen, KEV, LoopMaster, Mike Haggar, Hyper Yagami and Ayeye.
+      <systemName>FinalBurn Alpha</systemName>
+      <systemDescription>Этот проект с доступными исходниками основан на FinalBurn, созданном Дейвом в 2000 году. Над ним работала команда, состоящая из Барри Харриса (старое имя пользователя: TrebleWinner), Jan_Klaassen, KEV, LoopMaster, Mike Haggar, Hyper Yagami и Ayeye. FinalBurn был одним из первых эмуляторов Capcom CPS2. Когда в 2001 году этот проект был остановлен, его исходные тексты получили широкое распространение, что позволило создать множество неофициальных версий, наиболее успешной из которых является FBA.
 
-FinalBurn was one of the first Capcom CPS2 emulators. When this project came to a halt in 2001, its sources were widely disseminated, allowing the development of many unofficial versions, of which FBA is the most successful.
-
-Differentiated from other emulators by a very large number of supported systems, FB Alpha also offers a clear interface (simple like that of Kawaks) and excellent performance. The icing on the cake; it's not resource-intensive, and you don't need to indulge in complex settings to take it in hand immediately, although its menus are natively in English.</systemDescription>
+      Отличаясь от других эмуляторов очень большим количеством поддерживаемых систем, FB Alpha также предлагает понятный интерфейс (простой, как у Kawaks) и отличную производительность. Не требователен к ресурсам и не требует сложных настроек, чтобы сразу взять его в руки.</systemDescription>
       <systemManufacturer>FBA Team</systemManufacturer>
       <systemReleaseYear>2000</systemReleaseYear>
       <systemReleaseDate>2000</systemReleaseDate>
       <systemReleaseDateFormated>2000</systemReleaseDateFormated>
       <systemHardwareType>Emulator</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>5B60B7</systemColor>
       <systemColorPalette1>CF8A61</systemColorPalette1>
       <systemColorPalette2>FE7B07</systemColorPalette2>
       <systemColorPalette3>231F20</systemColorPalette3>
       <systemColorPalette4>FFFFFF</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

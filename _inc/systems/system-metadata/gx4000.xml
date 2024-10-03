@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>Amstrad GX4000 — 8-битная игровая приставка на базе домашнего компьютера Amstrad CPC 6128+, выпущенная британской компанией Amstrad в 1990 году для европейского рынка. Относится к третьему поколению игровых систем. Особого успеха консоль не имела, её продажи и выпуски игр к ней прекратились уже в 1992 году. Во многих рецензиях Amstrad GX4000 называется крупнейшим или одним из крупнейших провалов в истории игровых систем.</systemDescription>
+      <systemName>GX4000</systemName>
+      <systemDescription>Amstrad GX4000 — 8-битная игровая приставка на базе домашнего компьютера Amstrad CPC 6128+, выпущенная британской компанией Amstrad в 1990 году для европейского рынка. Относится к третьему поколению игровых систем. Особого успеха консоль не имела, её продажи и выпуски игр к ней прекратились уже в 1992 году. Во многих рецензиях Amstrad GX4000 называется крупнейшим или одним из крупнейших провалов в истории игровых систем. За недолгий срок существования Amstrad GX4000, к ней было выпущено менее 40 игр, большая часть которых была выпущена в 1990 году и является переносом с других игровых систем.</systemDescription>
       <systemManufacturer>Amstrad</systemManufacturer>
       <systemReleaseYear>1990</systemReleaseYear>
-      <systemReleaseDate>01.09.1990</systemReleaseDate>
-      <systemReleaseDateFormated>01 сентября 1990г.</systemReleaseDateFormated>
+      <systemReleaseDate>1990-09-01</systemReleaseDate>
+      <systemReleaseDateFormated>September 1, 1990</systemReleaseDateFormated>
       <systemHardwareType>Console</systemHardwareType>
-      <systemColor>DD4B3C</systemColor>
+      <systemCoverSize>3-4</systemCoverSize>
+      <systemColor>DA4A3B</systemColor>
       <systemColorPalette1>E5B3B2</systemColorPalette1>
       <systemColorPalette2>9E4968</systemColorPalette2>
       <systemColorPalette3>DBD9D4</systemColorPalette3>
       <systemColorPalette4>C02520</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>

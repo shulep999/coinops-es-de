@@ -1,15 +1,17 @@
 <theme>
    <variables>
-      <systemDescription>The Gamate, known as 超級小子 (pinyin: chāojí xiǎozi, literally "Super Boy") in Taiwan and 超级神童 (pinyin: chāojí shéntóng, literally "Super Child Prodigy") in China, is a handheld game console manufactured by Bit Corporation in the early 1990s, and released in Australia, some parts of Europe, Asia (Taiwan and China), Argentina, and the United States.</systemDescription>
-      <systemManufacturer>Bit Corporation United Microelectronics</systemManufacturer>
+      <systemName>Gamate</systemName>
+      <systemDescription>Gamate - портативная игровая консоль, изготовленная компанией Bit Corporation в начале 1990-х годов и выпущенная в Австралии, некоторых частях Европы, Азии (Тайвань и Китай), Аргентине и США. Bit Corp не протянули долго после выпуска Gamate. Компания закрылась в 1992 году, а консоль продолжила выпускать тайваньская UMC и ее дочка Funtech. Стала ли разработка собственной консоли тому причиной - тайна, покрытая мраком. Официально причиной закрытия бизнеса стали "операционные трудности".</systemDescription>
+      <systemManufacturer>Bit Corp.</systemManufacturer>
       <systemReleaseYear>1990</systemReleaseYear>
       <systemReleaseDate>1990</systemReleaseDate>
       <systemReleaseDateFormated>1990</systemReleaseDateFormated>
       <systemHardwareType>Portable</systemHardwareType>
+      <systemCoverSize>3-4</systemCoverSize>
       <systemColor>C53745</systemColor>
       <systemColorPalette1>999999</systemColorPalette1>
       <systemColorPalette2>777777</systemColorPalette2>
       <systemColorPalette3>555555</systemColorPalette3>
       <systemColorPalette4>333333</systemColorPalette4>
-   </variables>
+	  <systemCartSize>1-1</systemCartSize>    </variables>
 </theme>
